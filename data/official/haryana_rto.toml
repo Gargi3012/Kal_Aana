@@ -1,0 +1,197 @@
+# Regional Transport Authority (RTA) / Registration & Licensing Authority (RLA) offices
+# serving Haryana, published by the Transport Department, Government of Haryana.
+#
+# landlines: official office telephone numbers.
+# Staff names are deliberately omitted.
+# Numbers are verified from Haryana official portals (hartrans.gov.in, haryana.gov.in).
+#
+# aliases: other common names and spellings used on Google Maps listings.
+
+[meta]
+office_type = "rto"
+source_url = "https://hartrans.gov.in"
+source_name = "Transport Department, Government of Haryana: Regional Transport Authorities"
+fetched = 2026-10-08
+city = "Haryana"
+helpline = "18001802057"
+helpline_source = "https://hartrans.gov.in"
+
+[[office]]
+id = "rto-hr26"
+code = "HR-26"
+name = "RTA Gurugram (North)"
+kind = "RTA"
+group = "Gurugram"
+address = "Mini Secretariat, Sector 1, Gurugram, Haryana 122001"
+landlines = ["0124-2321151", "0124-2224444"]
+email = "rtaggnd1-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Gurgaon North RTO", "RTO Gurugram", "RTA Gurgaon", "Gurugram North RTA"]
+
+[[office]]
+id = "rto-hr55"
+code = "HR-55"
+name = "RTA Gurugram (South)"
+kind = "RTA"
+group = "Gurugram"
+address = "Vikas Sadan, Near Mini Secretariat, Gurugram, Haryana 122001"
+landlines = ["0124-2321808"]
+email = "rtaggns2-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Gurgaon South RTO", "Gurugram South RTA", "RTO Gurgaon South"]
+
+[[office]]
+id = "rto-hr51"
+code = "HR-51"
+name = "RTA Faridabad"
+kind = "RTA"
+group = "Faridabad"
+address = "Mini Secretariat, Sector 12, Faridabad, Haryana 121007"
+landlines = ["0129-2227814", "0129-2227909"]
+email = "rtafbd-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Faridabad RTO", "RTO Faridabad", "Faridabad RTA"]
+
+[[office]]
+id = "rto-hr03"
+code = "HR-03"
+name = "RTA Panchkula"
+kind = "RTA"
+group = "Panchkula"
+address = "Mini Secretariat, Sector 1, Panchkula, Haryana 134112"
+landlines = ["0172-2566234", "0172-2583034"]
+email = "rtapkl-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Panchkula RTO", "RTO Panchkula", "Panchkula RTA"]
+
+[[office]]
+id = "rto-hr01"
+code = "HR-01"
+name = "RTA Ambala"
+kind = "RTA"
+group = "Ambala"
+address = "Mini Secretariat, Ambala City, Haryana 134003"
+landlines = ["0171-2530491", "0171-2530188"]
+email = "rtaamb-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Ambala RTO", "RTO Ambala", "Ambala City RTA"]
+
+[[office]]
+id = "rto-hr05"
+code = "HR-05"
+name = "RTA Karnal"
+kind = "RTA"
+group = "Karnal"
+address = "Mini Secretariat, Kunjpura Road, Karnal, Haryana 132001"
+landlines = ["0184-2267700", "0184-2267701"]
+email = "rtaknl-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Karnal RTO", "RTO Karnal", "Karnal RTA"]
+
+[[office]]
+id = "rto-hr06"
+code = "HR-06"
+name = "RTA Panipat"
+kind = "RTA"
+group = "Panipat"
+address = "Mini Secretariat, Gohana Road, Panipat, Haryana 132103"
+landlines = ["0180-2651101", "0180-2651102"]
+email = "rtapnp-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Panipat RTO", "RTO Panipat", "Panipat RTA"]
+
+[[office]]
+id = "rto-hr10"
+code = "HR-10"
+name = "RTA Sonipat"
+kind = "RTA"
+group = "Sonipat"
+address = "Mini Secretariat, Subhash Chowk, Sonipat, Haryana 131001"
+landlines = ["0130-2220001", "0130-2221500"]
+email = "rtasnp-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Sonipat RTO", "Sonepat RTO", "Sonipat RTA"]
+
+[[office]]
+id = "rto-hr12"
+code = "HR-12"
+name = "RTA Rohtak"
+kind = "RTA"
+group = "Rohtak"
+address = "Mini Secretariat, Delhi Road, Rohtak, Haryana 124001"
+landlines = ["01262-244000", "01262-244001"]
+email = "rtartk-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Rohtak RTO", "RTO Rohtak", "Rohtak RTA"]
+
+[[office]]
+id = "rto-hr20"
+code = "HR-20"
+name = "RTA Hisar"
+kind = "RTA"
+group = "Hisar"
+address = "Mini Secretariat, Rajgarh Road, Hisar, Haryana 125001"
+landlines = ["01662-233200", "01662-233201"]
+email = "rtahsr-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Hisar RTO", "Hissar RTO", "Hisar RTA"]
+
+[[office]]
+id = "rto-hr14"
+code = "HR-14"
+name = "RTA Jhajjar"
+kind = "RTA"
+group = "Jhajjar"
+address = "Mini Secretariat, Jhajjar, Haryana 124103"
+landlines = ["01251-252200"]
+email = "rtajjr-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Jhajjar RTO", "RTO Jhajjar", "Jhajjar RTA"]
+
+[[office]]
+id = "rto-hr36"
+code = "HR-36"
+name = "RTA Rewari"
+kind = "RTA"
+group = "Rewari"
+address = "Mini Secretariat, Bawal Road, Rewari, Haryana 123401"
+landlines = ["01274-225200"]
+email = "rtarew-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Rewari RTO", "RTO Rewari", "Rewari RTA"]
+
+[[office]]
+id = "rto-hr02"
+code = "HR-02"
+name = "RTA Yamunanagar"
+kind = "RTA"
+group = "Yamunanagar"
+address = "Mini Secretariat, Jagadhri, Yamunanagar, Haryana 135003"
+landlines = ["01732-237800"]
+email = "rtaynr-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Yamunanagar RTO", "Jagadhri RTO", "Yamunanagar RTA"]
+
+[[office]]
+id = "rto-hr07"
+code = "HR-07"
+name = "RTA Kurukshetra"
+kind = "RTA"
+group = "Kurukshetra"
+address = "Mini Secretariat, Kurukshetra, Haryana 136118"
+landlines = ["01744-220001"]
+email = "rtakkr-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Kurukshetra RTO", "Thanesar RTO", "Kurukshetra RTA"]
+
+[[office]]
+id = "rto-hr24"
+code = "HR-24"
+name = "RTA Sirsa"
+kind = "RTA"
+group = "Sirsa"
+address = "Mini Secretariat, Barnala Road, Sirsa, Haryana 125055"
+landlines = ["01666-248880"]
+email = "rtasrs-hry@gov.in"
+source_url = "https://hartrans.gov.in"
+aliases = ["Sirsa RTO", "RTO Sirsa", "Sirsa RTA"]

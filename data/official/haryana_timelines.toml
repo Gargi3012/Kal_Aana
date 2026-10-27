@@ -1,0 +1,156 @@
+# Statutory service timelines under the Haryana Right to Service Act, 2014.
+# Source: Haryana Right to Service Commission (haryanartsc.gov.in).
+#
+# days: the time the designated officer has to dispose of an application, in working days
+# unless `unit` says otherwise.
+# If it isn't met, the citizen can file a first appeal with the First Grievance Redressal
+# Authority, then a second appeal with the Second Grievance Redressal Authority / HRTSC.
+
+[meta]
+source_url = "https://haryanartsc.gov.in"
+source_name = "Haryana Right to Service Commission: Notified Timelines"
+portal_url = "https://haryanartsc.gov.in"
+fetched = 2026-10-08
+act = "Haryana Right to Service Act, 2014"
+
+[appeals.rto]
+designated_officer = "Sub-Divisional Officer (Civil) / Secretary, Regional Transport Authority (RTA)"
+first_appeal = "Deputy Commissioner / First Grievance Redressal Authority"
+first_appeal_days = 30
+second_appeal = "Haryana Right to Service Commission"
+second_appeal_days = 30
+
+[appeals.subregistrar]
+designated_officer = "Sub-Registrar / Joint Sub-Registrar"
+first_appeal = "District Registrar / Deputy Commissioner"
+first_appeal_days = 30
+second_appeal = "Haryana Right to Service Commission"
+second_appeal_days = 30
+
+# Transport Department (Haryana) notified services under HRTSA 2014
+
+[[service]]
+id = "learners-licence"
+office_type = "rto"
+name = "Issue of learner's licence"
+days = 7
+
+[[service]]
+id = "driving-licence"
+office_type = "rto"
+name = "Issue of driving licence"
+days = 15
+
+[[service]]
+id = "vehicle-registration"
+office_type = "rto"
+name = "Registration of vehicle"
+days = 7
+
+[[service]]
+id = "duplicate-licence"
+office_type = "rto"
+name = "Duplicate driving licence"
+days = 7
+
+[[service]]
+id = "duplicate-rc"
+office_type = "rto"
+name = "Duplicate registration certificate"
+days = 10
+
+[[service]]
+id = "duplicate-learners-licence"
+office_type = "rto"
+name = "Duplicate learner's licence"
+days = 3
+
+[[service]]
+id = "international-driving-permit"
+office_type = "rto"
+name = "International driving permit"
+days = 5
+
+[[service]]
+id = "temporary-registration"
+office_type = "rto"
+name = "Temporary registration"
+days = 3
+
+[[service]]
+id = "transfer-of-ownership"
+office_type = "rto"
+name = "Transfer of vehicle ownership"
+days = 7
+
+[[service]]
+id = "hypothecation"
+office_type = "rto"
+name = "Hypothecation entry (hire purchase, lease)"
+days = 7
+
+[[service]]
+id = "clearance-certificate"
+office_type = "rto"
+name = "Clearance (NOC) certificate"
+days = 7
+
+[[service]]
+id = "licence-renewal"
+office_type = "rto"
+name = "Renewal of driving licence"
+days = 10
+
+[[service]]
+id = "rc-renewal"
+office_type = "rto"
+name = "Renewal of registration certificate (non-transport)"
+days = 10
+
+[[service]]
+id = "add-vehicle-class"
+office_type = "rto"
+name = "Add a vehicle class to a driving licence"
+days = 10
+
+# Revenue & Disaster Management Department (Haryana) notified services
+
+[[service]]
+id = "property-registration"
+office_type = "subregistrar"
+name = "Registration of immovable property / deed"
+days = 1
+
+[[service]]
+id = "encumbrance-certificate"
+office_type = "subregistrar"
+name = "Encumbrance certificate / search report"
+days = 3
+
+[[service]]
+id = "encumbrance-certificate-pre-2004"
+office_type = "subregistrar"
+name = "Inspection / Encumbrance certificate (prior records)"
+days = 7
+
+[[service]]
+id = "certified-copy"
+office_type = "subregistrar"
+name = "Certified copy of registered document (Nakal)"
+days = 3
+
+[[service]]
+id = "marriage-registration-hindu"
+office_type = "subregistrar"
+name = "Registration of marriage (Hindu Marriage Act)"
+days = 1
+unit = "days"
+condition = "after the documents required under the Act and Rules are submitted"
+
+[[service]]
+id = "marriage-registration-special"
+office_type = "subregistrar"
+name = "Registration of marriage (Special Marriage Act)"
+days = 1
+unit = "days"
+condition = "after the documents required under the Act and Rules are submitted"

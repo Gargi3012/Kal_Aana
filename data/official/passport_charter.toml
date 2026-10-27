@@ -1,0 +1,150 @@
+# Passport services are run by the Ministry of External Affairs (central government), so
+# they are not under state acts. Their promised timelines come from the MEA Citizen's Charter.
+#
+# Every timeline below runs "from the date of receipt of complete documentation". Rows with
+# `excludes` also leave out the police verification (PV) period. The charter sets no timeline
+# for police verification itself, so a wait that is mostly PV cannot be called a charter breach.
+
+[meta]
+office_type = "passport"
+city = "Haryana"
+source_url = "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf"
+source_name = "Passport Seva Citizen's Charter (Ministry of External Affairs)"
+previous_version_url = "https://www.mea.gov.in/images/attach/Citizen_Charter_2025.pdf"
+fetched = 2026-10-08
+helpline = "18002581800"
+grievance_portals = ["https://www.passportindia.gov.in/psp/Grievance", "https://pgportal.gov.in"]
+grievance_phones = ["011-23384519", "011-23384497"]
+grievance_email = "passport.pg@mea.gov.in"
+# Regional Passport Office, Chandigarh serves Haryana districts; Delhi RPO serves NCR districts.
+complaint_to = "rpo-chandigarh"
+complaint_email = "rpo.chandigarh@mea.gov.in"
+
+[[service]]
+id = "passport-fresh"
+name = "Fresh passport (normal)"
+days = 30
+excludes = "police verification period"
+
+[[service]]
+id = "passport-reissue"
+name = "Passport re-issue (no pre-police verification needed)"
+days = 7
+
+[[service]]
+id = "passport-reissue-pv"
+name = "Passport re-issue (police verification needed)"
+days = 30
+excludes = "police verification period"
+
+[[service]]
+id = "passport-tatkaal"
+name = "Tatkaal passport"
+days = 3
+condition = "if the applicant is eligible under the Tatkaal scheme"
+
+[[service]]
+id = "police-clearance-certificate"
+name = "Police clearance certificate"
+days = 7
+excludes = "police verification period"
+
+[[office]]
+id = "rpo-chandigarh"
+name = "Regional Passport Office, Chandigarh"
+kind = "RPO"
+address = "SCO 28-32, Sector 34-A, Chandigarh 160022"
+landlines = ["0172-2601281", "0172-2624987"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["RPO Chandigarh", "Chandigarh Passport Office", "Regional Passport Office"]
+
+[[office]]
+id = "psk-gurugram"
+name = "Passport Seva Kendra, Gurugram"
+kind = "PSK"
+address = "MM Towers, Plot No. 8 & 9, Sub. Major Laxmi Chand Road, Udyog Vihar Phase IV, Sector 18, Gurugram, Haryana 122015"
+landlines = ["0124-4001800"]
+email = "rpo.delhi@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["PSK Gurgaon", "PSK Gurugram", "Udyog Vihar Passport Office"]
+
+[[office]]
+id = "psk-ambala"
+name = "Passport Seva Kendra, Ambala"
+kind = "PSK"
+address = "Near Aggarsain Chowk, Ambala City, Haryana 134003"
+landlines = ["0171-2550180"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["PSK Ambala", "Ambala Passport Office"]
+
+[[office]]
+id = "popsk-faridabad"
+name = "Post Office Passport Seva Kendra, Faridabad"
+kind = "POPSK"
+address = "Head Post Office, Sector 16, NIT Faridabad, Haryana 121001"
+landlines = ["0129-2412800"]
+email = "rpo.delhi@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["POPSK Faridabad", "Faridabad Passport Office"]
+
+[[office]]
+id = "popsk-karnal"
+name = "Post Office Passport Seva Kendra, Karnal"
+kind = "POPSK"
+address = "Head Post Office, Kunjpura Road, Karnal, Haryana 132001"
+landlines = ["0184-2252100"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["POPSK Karnal", "Karnal Passport Office"]
+
+[[office]]
+id = "popsk-rohtak"
+name = "Post Office Passport Seva Kendra, Rohtak"
+kind = "POPSK"
+address = "Head Post Office, Civil Lines, Rohtak, Haryana 124001"
+landlines = ["01262-254100"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["POPSK Rohtak", "Rohtak Passport Office"]
+
+[[office]]
+id = "popsk-hisar"
+name = "Post Office Passport Seva Kendra, Hisar"
+kind = "POPSK"
+address = "Head Post Office, Hisar, Haryana 125001"
+landlines = ["01662-232100"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["POPSK Hisar", "Hisar Passport Office"]
+
+[[office]]
+id = "popsk-panchkula"
+name = "Post Office Passport Seva Kendra, Panchkula"
+kind = "POPSK"
+address = "Head Post Office, Sector 8, Panchkula, Haryana 134109"
+landlines = ["0172-2566100"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["POPSK Panchkula", "Panchkula Passport Office"]
+
+[[office]]
+id = "popsk-panipat"
+name = "Post Office Passport Seva Kendra, Panipat"
+kind = "POPSK"
+address = "Head Post Office, GT Road, Panipat, Haryana 132103"
+landlines = ["0180-2641100"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["POPSK Panipat", "Panipat Passport Office"]
+
+[[office]]
+id = "popsk-sonipat"
+name = "Post Office Passport Seva Kendra, Sonipat"
+kind = "POPSK"
+address = "Head Post Office, Sonipat, Haryana 131001"
+landlines = ["0130-2241100"]
+email = "rpo.chandigarh@mea.gov.in"
+source_url = "https://www.passportindia.gov.in"
+aliases = ["POPSK Sonipat", "Sonipat Passport Office"]

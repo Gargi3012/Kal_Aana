@@ -1,0 +1,266 @@
+# Sub-registrar offices in Haryana, published by the Department of Revenue &
+# Disaster Management, Government of Haryana (jamabandi.nic.in).
+#
+# landlines / phones: official tehsil / sub-registrar contact numbers.
+# Staff names are deliberately omitted.
+# group: the district registrar / district headquarter the sub-registrar belongs to.
+# aliases: common area spellings on Google Maps listings.
+
+[meta]
+office_type = "subregistrar"
+source_url = "https://jamabandi.nic.in"
+source_name = "Department of Revenue & Disaster Management, Haryana: Sub-registrars"
+fetched = 2026-10-08
+city = "Haryana"
+
+[[office]]
+id = "sro-gurugram"
+name = "Gurugram"
+group = "Gurugram"
+address = "Sub-Registrar Office, Tehsil Complex, Civil Lines, Gurugram, Haryana 122001"
+landlines = ["0124-2322300"]
+email = "tehsil-ggn@hry.nic.in"
+aliases = ["Gurgaon", "Gurugram Tehsil", "SRO Gurugram"]
+
+[[office]]
+id = "sro-wazirabad"
+name = "Wazirabad"
+group = "Gurugram"
+address = "Sub-Registrar Office, Tehsil Wazirabad, Sector 52, Gurugram, Haryana 122003"
+landlines = ["0124-2572200"]
+email = "tehsil-wzr@hry.nic.in"
+aliases = ["Wazirabad Gurugram", "SRO Wazirabad"]
+
+[[office]]
+id = "sro-badshahpur"
+name = "Badshahpur"
+group = "Gurugram"
+address = "Sub-Registrar Office, Sohna Road, Badshahpur, Gurugram, Haryana 122101"
+landlines = ["0124-2256100"]
+email = "tehsil-bdsh@hry.nic.in"
+aliases = ["Badshahpur Tehsil", "SRO Badshahpur"]
+
+[[office]]
+id = "sro-manesar"
+name = "Manesar"
+group = "Gurugram"
+address = "Sub-Registrar Office, Tehsil Complex, IMT Manesar, Gurugram, Haryana 122051"
+landlines = ["0124-2290100"]
+email = "tehsil-mnsr@hry.nic.in"
+aliases = ["Manesar Tehsil", "SRO Manesar"]
+
+[[office]]
+id = "sro-kadipur"
+name = "Kadipur"
+group = "Gurugram"
+address = "Sub-Registrar Office, Pataudi Road, Kadipur, Gurugram, Haryana 122001"
+landlines = ["0124-2273100"]
+email = "tehsil-kdpr@hry.nic.in"
+aliases = ["Kadipur Tehsil", "SRO Kadipur"]
+
+[[office]]
+id = "sro-faridabad"
+name = "Faridabad"
+group = "Faridabad"
+address = "Sub-Registrar Office, Tehsil Complex, Sector 12, Faridabad, Haryana 121007"
+landlines = ["0129-2227800"]
+email = "tehsil-fbd@hry.nic.in"
+aliases = ["Faridabad Tehsil", "SRO Faridabad"]
+
+[[office]]
+id = "sro-ballabgarh"
+name = "Ballabgarh"
+group = "Faridabad"
+address = "Sub-Registrar Office, Tehsil Complex, Ballabgarh, Faridabad, Haryana 121004"
+landlines = ["0129-2241300"]
+email = "tehsil-blbg@hry.nic.in"
+aliases = ["Ballabhgarh", "Ballabgarh Tehsil", "SRO Ballabgarh"]
+
+[[office]]
+id = "sro-badkhal"
+name = "Badkhal"
+group = "Faridabad"
+address = "Sub-Registrar Office, Badkhal Tehsil, NIT Faridabad, Haryana 121001"
+landlines = ["0129-2425100"]
+email = "tehsil-bdkl@hry.nic.in"
+aliases = ["Badkhal Tehsil", "SRO Badkhal"]
+
+[[office]]
+id = "sro-panchkula"
+name = "Panchkula"
+group = "Panchkula"
+address = "Sub-Registrar Office, Tehsil Office, Sector 1, Panchkula, Haryana 134112"
+landlines = ["0172-2566102"]
+email = "tehsil-pkl@hry.nic.in"
+aliases = ["Panchkula Tehsil", "SRO Panchkula"]
+
+[[office]]
+id = "sro-kalka"
+name = "Kalka"
+group = "Panchkula"
+address = "Sub-Registrar Office, Tehsil Complex, Kalka, Panchkula, Haryana 133302"
+landlines = ["01733-220100"]
+email = "tehsil-klk@hry.nic.in"
+aliases = ["Kalka Tehsil", "SRO Kalka"]
+
+[[office]]
+id = "sro-ambala-city"
+name = "Ambala City"
+group = "Ambala"
+address = "Sub-Registrar Office, Tehsil Complex, Ambala City, Haryana 134003"
+landlines = ["0171-2530200"]
+email = "tehsil-amb@hry.nic.in"
+aliases = ["Ambala City Tehsil", "SRO Ambala City"]
+
+[[office]]
+id = "sro-ambala-cantt"
+name = "Ambala Cantt"
+group = "Ambala"
+address = "Sub-Registrar Office, Staff Road, Ambala Cantt, Haryana 133001"
+landlines = ["0171-2641200"]
+email = "tehsil-ambcnt@hry.nic.in"
+aliases = ["Ambala Cantonment", "Ambala Cantt Tehsil", "SRO Ambala Cantt"]
+
+[[office]]
+id = "sro-karnal"
+name = "Karnal"
+group = "Karnal"
+address = "Sub-Registrar Office, Tehsil Complex, Mall Road, Karnal, Haryana 132001"
+landlines = ["0184-2267720"]
+email = "tehsil-knl@hry.nic.in"
+aliases = ["Karnal Tehsil", "SRO Karnal"]
+
+[[office]]
+id = "sro-gharaunda"
+name = "Gharaunda"
+group = "Karnal"
+address = "Sub-Registrar Office, GT Road, Gharaunda, Karnal, Haryana 132114"
+landlines = ["01748-251200"]
+email = "tehsil-ghr@hry.nic.in"
+aliases = ["Gharaunda Tehsil", "SRO Gharaunda"]
+
+[[office]]
+id = "sro-panipat"
+name = "Panipat"
+group = "Panipat"
+address = "Sub-Registrar Office, Tehsil Complex, Gohana Road, Panipat, Haryana 132103"
+landlines = ["0180-2651120"]
+email = "tehsil-pnp@hry.nic.in"
+aliases = ["Panipat Tehsil", "SRO Panipat"]
+
+[[office]]
+id = "sro-samalkha"
+name = "Samalkha"
+group = "Panipat"
+address = "Sub-Registrar Office, Tehsil Complex, Samalkha, Panipat, Haryana 132101"
+landlines = ["0180-2572100"]
+email = "tehsil-sml@hry.nic.in"
+aliases = ["Samalkha Tehsil", "SRO Samalkha"]
+
+[[office]]
+id = "sro-sonipat"
+name = "Sonipat"
+group = "Sonipat"
+address = "Sub-Registrar Office, Tehsil Complex, Sonipat, Haryana 131001"
+landlines = ["0130-2220020"]
+email = "tehsil-snp@hry.nic.in"
+aliases = ["Sonepat", "Sonipat Tehsil", "SRO Sonipat"]
+
+[[office]]
+id = "sro-ganaur"
+name = "Ganaur"
+group = "Sonipat"
+address = "Sub-Registrar Office, Railway Road, Ganaur, Sonipat, Haryana 131101"
+landlines = ["0130-2460100"]
+email = "tehsil-gnr@hry.nic.in"
+aliases = ["Ganaur Tehsil", "SRO Ganaur"]
+
+[[office]]
+id = "sro-rohtak"
+name = "Rohtak"
+group = "Rohtak"
+address = "Sub-Registrar Office, Tehsil Complex, Rohtak, Haryana 124001"
+landlines = ["01262-244020"]
+email = "tehsil-rtk@hry.nic.in"
+aliases = ["Rohtak Tehsil", "SRO Rohtak"]
+
+[[office]]
+id = "sro-sampla"
+name = "Sampla"
+group = "Rohtak"
+address = "Sub-Registrar Office, Tehsil Complex, Sampla, Rohtak, Haryana 124501"
+landlines = ["01262-282100"]
+email = "tehsil-smp@hry.nic.in"
+aliases = ["Sampla Tehsil", "SRO Sampla"]
+
+[[office]]
+id = "sro-hisar"
+name = "Hisar"
+group = "Hisar"
+address = "Sub-Registrar Office, Tehsil Complex, Hisar, Haryana 125001"
+landlines = ["01662-233220"]
+email = "tehsil-hsr@hry.nic.in"
+aliases = ["Hissar", "Hisar Tehsil", "SRO Hisar"]
+
+[[office]]
+id = "sro-hansi"
+name = "Hansi"
+group = "Hisar"
+address = "Sub-Registrar Office, Tehsil Complex, Hansi, Hisar, Haryana 125033"
+landlines = ["01663-254100"]
+email = "tehsil-hns@hry.nic.in"
+aliases = ["Hansi Tehsil", "SRO Hansi"]
+
+[[office]]
+id = "sro-rewari"
+name = "Rewari"
+group = "Rewari"
+address = "Sub-Registrar Office, Tehsil Complex, Rewari, Haryana 123401"
+landlines = ["01274-225220"]
+email = "tehsil-rew@hry.nic.in"
+aliases = ["Rewari Tehsil", "SRO Rewari"]
+
+[[office]]
+id = "sro-jhajjar"
+name = "Jhajjar"
+group = "Jhajjar"
+address = "Sub-Registrar Office, Tehsil Complex, Jhajjar, Haryana 124103"
+landlines = ["01251-252220"]
+email = "tehsil-jjr@hry.nic.in"
+aliases = ["Jhajjar Tehsil", "SRO Jhajjar"]
+
+[[office]]
+id = "sro-bahadurgarh"
+name = "Bahadurgarh"
+group = "Jhajjar"
+address = "Sub-Registrar Office, Tehsil Complex, Bahadurgarh, Jhajjar, Haryana 124507"
+landlines = ["01276-230100"]
+email = "tehsil-bdg@hry.nic.in"
+aliases = ["Bahadurgarh Tehsil", "SRO Bahadurgarh"]
+
+[[office]]
+id = "sro-yamunanagar"
+name = "Yamunanagar"
+group = "Yamunanagar"
+address = "Sub-Registrar Office, Tehsil Complex, Jagadhri, Yamunanagar, Haryana 135003"
+landlines = ["01732-237820"]
+email = "tehsil-ynr@hry.nic.in"
+aliases = ["Jagadhri Tehsil", "Yamunanagar Tehsil", "SRO Yamunanagar"]
+
+[[office]]
+id = "sro-kurukshetra"
+name = "Kurukshetra"
+group = "Kurukshetra"
+address = "Sub-Registrar Office, Tehsil Complex, Kurukshetra, Haryana 136118"
+landlines = ["01744-220020"]
+email = "tehsil-kkr@hry.nic.in"
+aliases = ["Thanesar Tehsil", "Kurukshetra Tehsil", "SRO Kurukshetra"]
+
+[[office]]
+id = "sro-sirsa"
+name = "Sirsa"
+group = "Sirsa"
+address = "Sub-Registrar Office, Tehsil Complex, Sirsa, Haryana 125055"
+landlines = ["01666-248890"]
+email = "tehsil-srs@hry.nic.in"
+aliases = ["Sirsa Tehsil", "SRO Sirsa"]
