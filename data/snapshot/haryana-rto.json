@@ -1,0 +1,7767 @@
+{
+ "city": "Haryana",
+ "office_type": "rto",
+ "profile": {
+  "label": "Regional Transport Authority",
+  "short": "RTO",
+  "plural": "RTOs",
+  "department": "Transport Department, Haryana",
+  "officer": "Secretary, Regional Transport Authority",
+  "review_queries": [
+   "phone",
+   "bribe",
+   "agent"
+  ],
+  "promise": "the law",
+  "promise_name": "Haryana Right to Service Act, 2014",
+  "directory_url": "https://hartrans.gov.in"
+ },
+ "as_of": "2026-10-08",
+ "rules": {
+  "issue_window_days": 365,
+  "min_sample": 10,
+  "recent_days": 730,
+  "breach_margin_pct": 25
+ },
+ "headline": {
+  "offices": 15,
+  "official_phone": 15,
+  "official_landline": 15,
+  "listed": 15,
+  "not_found": [],
+  "listing_no_phone": 10,
+  "listing_official_phone": 3,
+  "listing_phone_shown": 5,
+  "listing_phone_not_in_directory": 2,
+  "shared_listing_numbers": [],
+  "listing_unclaimed": 11,
+  "ai_overviews": 15,
+  "ai_first_number_right": 8,
+  "ai_address_wrong": [],
+  "ai_first_number_from_listing": 3,
+  "bing_checked": 15,
+  "bing_found": 15,
+  "bing_no_phone": 7,
+  "bing_official_phone": 8,
+  "ai_mode_answers": 15,
+  "ai_mode_first_number_right": 15,
+  "ai_mode_address_wrong": [],
+  "citizen_checked": 15,
+  "sampled": 15,
+  "recent_breaches": 1,
+  "enough_evidence": 15
+ },
+ "offices": [
+  {
+   "id": "rto-hr26",
+   "code": "HR-26",
+   "name": "RTA Gurugram (North)",
+   "display_name": "RTA Gurugram (North) (HR-26)",
+   "office_type": "rto",
+   "aliases": [
+    "Gurgaon North RTO",
+    "RTO Gurugram",
+    "RTA Gurgaon",
+    "Gurugram North RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Sector 1, Gurugram, Haryana 122001",
+   "pincode": "122001",
+   "email": "rtaggnd1-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0124 232 1151",
+     "label": "landline",
+     "tel": "+911242321151"
+    },
+    {
+     "display": "0124 222 4444",
+     "label": "landline",
+     "tel": "+911242224444"
+    }
+   ],
+   "listing": {
+    "data_id": "0xa9be9bc8e907d18f:0x515c97fa89f75078",
+    "place_id": "ChIJ24f030cc0ff4147513707dc",
+    "title": "RTA Gurugram (North) (HR-26)",
+    "address": "Mini Secretariat, Sector 1, Gurugram, Haryana 122001",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.5,
+    "reviews": 762,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": false,
+    "lat": 28.4595,
+    "lng": 77.0266,
+    "found_by": "Regional Transport Authority",
+    "search_id": "05d794e43b60c765a7b7f312",
+    "match": {
+     "office_id": "rto-hr26",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-26",
+      "same PIN 122001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24f030cc0ff4147513707dc",
+    "phone_display": "0124 232 1151",
+    "phone_verdict": "this office",
+    "phone_detail": "This office's own directory number"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 75,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": true,
+      "detail": "The office's own published directory number.",
+      "points": 20
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Listing is claimed and verified by the department.",
+      "points": 10
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ760260231ded63f95f16eef",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ760260231ded63f95f16eef",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ5a55405070ef98eb0b65b4c",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ5a55405070ef98eb0b65b4c",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJabcc141f3ab402c98fe3bf3",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJabcc141f3ab402c98fe3bf3",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ1284936845bb2be42eb04fe",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ1284936845bb2be42eb04fe",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Gurugram (North) is 0124 232 1151. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Sector 1, Gurugram, Haryana 122001.",
+    "first_number": {
+     "display": "0124 232 1151",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0124 232 1151",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "122001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "912f9fa079cbe03cc9e9a5e7",
+    "query": "RTA Gurugram (North) phone number",
+    "repeats_listing_number": true
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Gurugram (North) is 0124 232 1151.",
+    "first_number": {
+     "display": "0124 232 1151",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0124 232 1151",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "122001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "7a495939300f3c4b3d3bbcbc",
+    "query": "RTA Gurugram (North) phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Gurugram (North)",
+    "how": "matched by location and name",
+    "search_id": "5117bbc8a98c9da32b882768",
+    "query": "RTA Gurugram (North) Haryana",
+    "phone_display": "0124 232 1151",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Gurugram (North)\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Gurugram (North)"
+     },
+     "search_id": "05d794e43b60c765a7b7f312"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Gurugram (North)",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ24f030cc0ff4147513707dc"
+     },
+     "search_id": "73c4cb2abf34bd1133f80203"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Gurugram (North) phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Gurugram (North) phone number"
+     },
+     "search_id": "e0ee95e71aeda12caa74bd3a"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "912f9fa079cbe03cc9e9a5e7"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "7a495939300f3c4b3d3bbcbc"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Gurugram (North)\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Gurugram (North)"
+     },
+     "search_id": "5117bbc8a98c9da32b882768"
+    }
+   ],
+   "busy": {
+    "title": "RTA Gurugram (North)",
+    "engine": "google_maps",
+    "search_id": "05d794e43b60c765a7b7f312",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [
+    {
+     "service": "Issue of learner's licence",
+     "service_id": "learners-licence",
+     "statutory_days": 7,
+     "unit": "working days",
+     "citation": "https://haryanartsc.gov.in",
+     "reported_days": 21,
+     "reported_working_days": 15,
+     "said": "waiting 3 weeks for learner licence approval",
+     "explanation": "3 weeks is approximately 15 working days, exceeding the 7-day statutory limit under the Haryana Right to Service Act, 2014.",
+     "quote": {
+      "review_id": "ChIJa2ce9bbbb11d26744cb948f",
+      "text": "Applied for my learner's licence at RTA Gurugram 3 weeks ago, still waiting for approval.",
+      "evidence": "3 weeks ago, still waiting",
+      "date": "2026-09-15",
+      "rating": 1.0,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJa2ce9bbbb11d26744cb948f",
+      "language": "en",
+      "sample": "newest"
+     }
+    }
+   ],
+   "citizen_search": {
+    "query": "RTA Gurugram (North) phone number",
+    "numbers": [
+     {
+      "display": "0124 232 1151",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr55",
+   "code": "HR-55",
+   "name": "RTA Gurugram (South)",
+   "display_name": "RTA Gurugram (South) (HR-55)",
+   "office_type": "rto",
+   "aliases": [
+    "Gurgaon South RTO",
+    "Gurugram South RTA",
+    "RTO Gurgaon South"
+   ],
+   "kind": "RTA",
+   "address": "Vikas Sadan, Near Mini Secretariat, Gurugram, Haryana 122001",
+   "pincode": "122001",
+   "email": "rtaggns2-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0124 232 1808",
+     "label": "landline",
+     "tel": "+911242321808"
+    }
+   ],
+   "listing": {
+    "data_id": "0xbd0f9e81a507501e:0x50b24c7e77eef98a",
+    "place_id": "ChIJad1f5bb710633238e738991",
+    "title": "RTA Gurugram (South) (HR-55)",
+    "address": "Vikas Sadan, Near Mini Secretariat, Gurugram, Haryana 122001",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.3,
+    "reviews": 412,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.4572,
+    "lng": 77.0298,
+    "found_by": "Regional Transport Authority",
+    "search_id": "3d9a4008ceaa7843dd4debdf",
+    "match": {
+     "office_id": "rto-hr55",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-55",
+      "same PIN 122001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJad1f5bb710633238e738991",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ4d336d432e62053b3e34048",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ4d336d432e62053b3e34048",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding RTA Gurugram (South). Address: Vikas Sadan, Near Mini Secretariat, Gurugram, Haryana 122001.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "122001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "efc8369d9d6109fa51becd52",
+    "query": "RTA Gurugram (South) phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Gurugram (South) is 0124 232 1808.",
+    "first_number": {
+     "display": "0124 232 1808",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0124 232 1808",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "122001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "15f689df28a24c25c169a6da",
+    "query": "RTA Gurugram (South) phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Gurugram (South)",
+    "how": "matched by location and name",
+    "search_id": "c3ffe991631a30f4299b902a",
+    "query": "RTA Gurugram (South) Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Gurugram (South)\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Gurugram (South)"
+     },
+     "search_id": "3d9a4008ceaa7843dd4debdf"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Gurugram (South)",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJad1f5bb710633238e738991"
+     },
+     "search_id": "56b454286706819706796c29"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Gurugram (South) phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Gurugram (South) phone number"
+     },
+     "search_id": "4331238a5034b7be9d635eab"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "efc8369d9d6109fa51becd52"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "15f689df28a24c25c169a6da"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Gurugram (South)\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Gurugram (South)"
+     },
+     "search_id": "c3ffe991631a30f4299b902a"
+    }
+   ],
+   "busy": {
+    "title": "RTA Gurugram (South)",
+    "engine": "google_maps",
+    "search_id": "3d9a4008ceaa7843dd4debdf",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Gurugram (South) phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr51",
+   "code": "HR-51",
+   "name": "RTA Faridabad",
+   "display_name": "RTA Faridabad (HR-51)",
+   "office_type": "rto",
+   "aliases": [
+    "Faridabad RTO",
+    "RTO Faridabad",
+    "Faridabad RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Sector 12, Faridabad, Haryana 121007",
+   "pincode": "121007",
+   "email": "rtafbd-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0129 222 7814",
+     "label": "landline",
+     "tel": "+911292227814"
+    },
+    {
+     "display": "0129 222 7909",
+     "label": "landline",
+     "tel": "+911292227909"
+    }
+   ],
+   "listing": {
+    "data_id": "0xc531ec94c232474e:0xe2d3f78f3d37962a",
+    "place_id": "ChIJ5392669d3838c254ee8edde",
+    "title": "RTA Faridabad (HR-51)",
+    "address": "Mini Secretariat, Sector 12, Faridabad, Haryana 121007",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.1,
+    "reviews": 620,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.3892,
+    "lng": 77.3153,
+    "found_by": "Regional Transport Authority",
+    "search_id": "8859674b17cdce905b5a1b53",
+    "match": {
+     "office_id": "rto-hr51",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-51",
+      "same PIN 121007"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5392669d3838c254ee8edde",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ8ae687010c7fe985091ae65",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ8ae687010c7fe985091ae65",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJbe9290896e84474ac7dfbaf",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJbe9290896e84474ac7dfbaf",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ96ce5f926ea60d6d522277f",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ96ce5f926ea60d6d522277f",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Faridabad is 0129 222 7814. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Sector 12, Faridabad, Haryana 121007.",
+    "first_number": {
+     "display": "0129 222 7814",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0129 222 7814",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "121007"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "1ca9b041d9585003f6ce818b",
+    "query": "RTA Faridabad phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Faridabad is 0129 222 7814.",
+    "first_number": {
+     "display": "0129 222 7814",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0129 222 7814",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "121007"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "2073c0fe3dbbedf04001cddc",
+    "query": "RTA Faridabad phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Faridabad",
+    "how": "matched by location and name",
+    "search_id": "317439db656aa7754ba7c894",
+    "query": "RTA Faridabad Haryana",
+    "phone_display": "0129 222 7814",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Faridabad\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Faridabad"
+     },
+     "search_id": "8859674b17cdce905b5a1b53"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Faridabad",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ5392669d3838c254ee8edde"
+     },
+     "search_id": "b057691af0f1a17491b714ed"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Faridabad phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Faridabad phone number"
+     },
+     "search_id": "d452e2b3bc1d480ee340b22d"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "1ca9b041d9585003f6ce818b"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "2073c0fe3dbbedf04001cddc"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Faridabad\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Faridabad"
+     },
+     "search_id": "317439db656aa7754ba7c894"
+    }
+   ],
+   "busy": {
+    "title": "RTA Faridabad",
+    "engine": "google_maps",
+    "search_id": "8859674b17cdce905b5a1b53",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Faridabad phone number",
+    "numbers": [
+     {
+      "display": "0129 222 7814",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr03",
+   "code": "HR-03",
+   "name": "RTA Panchkula",
+   "display_name": "RTA Panchkula (HR-03)",
+   "office_type": "rto",
+   "aliases": [
+    "Panchkula RTO",
+    "RTO Panchkula",
+    "Panchkula RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Sector 1, Panchkula, Haryana 134112",
+   "pincode": "134112",
+   "email": "rtapkl-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0172 256 6234",
+     "label": "landline",
+     "tel": "+911722566234"
+    },
+    {
+     "display": "0172 258 3034",
+     "label": "landline",
+     "tel": "+911722583034"
+    }
+   ],
+   "listing": {
+    "data_id": "0xed15fec8e2671efa:0x17eb79dea482c67a",
+    "place_id": "ChIJdc9792f5ce1dfa118700f13",
+    "title": "RTA Panchkula (HR-03)",
+    "address": "Mini Secretariat, Sector 1, Panchkula, Haryana 134112",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.8,
+    "reviews": 380,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 30.6942,
+    "lng": 76.8606,
+    "found_by": "Regional Transport Authority",
+    "search_id": "384cb897801d9fe32afaad49",
+    "match": {
+     "office_id": "rto-hr03",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-03",
+      "same PIN 134112"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdc9792f5ce1dfa118700f13",
+    "phone_display": "0124 492 5522",
+    "phone_verdict": "not in the directory",
+    "phone_detail": "A number not listed in the official directory"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": false,
+      "detail": "A number not found in the directory.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJe5833aa5e586b856cc2d014",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJe5833aa5e586b856cc2d014",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJe57f9a8003e9b4c1d52854a",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJe57f9a8003e9b4c1d52854a",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ0447836b249716dab6848ba",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ0447836b249716dab6848ba",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding RTA Panchkula. Address: Mini Secretariat, Sector 1, Panchkula, Haryana 134112.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "134112"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "41f0d37a9da2be5b0ee871af",
+    "query": "RTA Panchkula phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Panchkula is 0172 256 6234.",
+    "first_number": {
+     "display": "0172 256 6234",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0172 256 6234",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "134112"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "ab1a8507c5984f53eabd23f1",
+    "query": "RTA Panchkula phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Panchkula",
+    "how": "matched by location and name",
+    "search_id": "ca037889bd62f5386615d186",
+    "query": "RTA Panchkula Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Panchkula\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Panchkula"
+     },
+     "search_id": "384cb897801d9fe32afaad49"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Panchkula",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJdc9792f5ce1dfa118700f13"
+     },
+     "search_id": "58e9aec46fae52df1a7f1d5e"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Panchkula phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Panchkula phone number"
+     },
+     "search_id": "87f8498b9946090d4522558e"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "41f0d37a9da2be5b0ee871af"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "ab1a8507c5984f53eabd23f1"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Panchkula\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Panchkula"
+     },
+     "search_id": "ca037889bd62f5386615d186"
+    }
+   ],
+   "busy": {
+    "title": "RTA Panchkula",
+    "engine": "google_maps",
+    "search_id": "384cb897801d9fe32afaad49",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Panchkula phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr01",
+   "code": "HR-01",
+   "name": "RTA Ambala",
+   "display_name": "RTA Ambala (HR-01)",
+   "office_type": "rto",
+   "aliases": [
+    "Ambala RTO",
+    "RTO Ambala",
+    "Ambala City RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Ambala City, Haryana 134003",
+   "pincode": "134003",
+   "email": "rtaamb-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0171 253 0491",
+     "label": "landline",
+     "tel": "+911712530491"
+    },
+    {
+     "display": "0171 253 0188",
+     "label": "landline",
+     "tel": "+911712530188"
+    }
+   ],
+   "listing": {
+    "data_id": "0xdc35ef7180ffc906:0x71d306f457b2c544",
+    "place_id": "ChIJc48d0f537d3e11cbb4405a7",
+    "title": "RTA Ambala (HR-01)",
+    "address": "Mini Secretariat, Ambala City, Haryana 134003",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.4,
+    "reviews": 290,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": false,
+    "lat": 30.3782,
+    "lng": 76.7767,
+    "found_by": "Regional Transport Authority",
+    "search_id": "9ced1a5da7568b12d239a45c",
+    "match": {
+     "office_id": "rto-hr01",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-01",
+      "same PIN 134003"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc48d0f537d3e11cbb4405a7",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 55,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Listing is claimed and verified by the department.",
+      "points": 10
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ3239f505f19f4d3afb6397d",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ3239f505f19f4d3afb6397d",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ3039d5fd1ec186e022c39aa",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ3039d5fd1ec186e022c39aa",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Ambala is 0171 253 0491. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Ambala City, Haryana 134003.",
+    "first_number": {
+     "display": "0171 253 0491",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0171 253 0491",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "134003"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "6ecd195f8ea4ed634f6bdbfa",
+    "query": "RTA Ambala phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Ambala is 0171 253 0491.",
+    "first_number": {
+     "display": "0171 253 0491",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0171 253 0491",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "134003"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "9669961c6765b9e3b271ddf0",
+    "query": "RTA Ambala phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Ambala",
+    "how": "matched by location and name",
+    "search_id": "d1b62c5c9cd2f5bf0335a06e",
+    "query": "RTA Ambala Haryana",
+    "phone_display": "0171 253 0491",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Ambala\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Ambala"
+     },
+     "search_id": "9ced1a5da7568b12d239a45c"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Ambala",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJc48d0f537d3e11cbb4405a7"
+     },
+     "search_id": "7f8216f807601257ab120ea3"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Ambala phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Ambala phone number"
+     },
+     "search_id": "3b0770a1567d0fc3f1303e2b"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "6ecd195f8ea4ed634f6bdbfa"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "9669961c6765b9e3b271ddf0"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Ambala\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Ambala"
+     },
+     "search_id": "d1b62c5c9cd2f5bf0335a06e"
+    }
+   ],
+   "busy": {
+    "title": "RTA Ambala",
+    "engine": "google_maps",
+    "search_id": "9ced1a5da7568b12d239a45c",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Ambala phone number",
+    "numbers": [
+     {
+      "display": "0171 253 0491",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr05",
+   "code": "HR-05",
+   "name": "RTA Karnal",
+   "display_name": "RTA Karnal (HR-05)",
+   "office_type": "rto",
+   "aliases": [
+    "Karnal RTO",
+    "RTO Karnal",
+    "Karnal RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Kunjpura Road, Karnal, Haryana 132001",
+   "pincode": "132001",
+   "email": "rtaknl-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0184 226 7700",
+     "label": "landline",
+     "tel": "+911842267700"
+    },
+    {
+     "display": "0184 226 7701",
+     "label": "landline",
+     "tel": "+911842267701"
+    }
+   ],
+   "listing": {
+    "data_id": "0x868bf0efbc31296c:0xf7fbb8275ff49654",
+    "place_id": "ChIJc25443f01843bd6a882ad6f",
+    "title": "RTA Karnal (HR-05)",
+    "address": "Mini Secretariat, Kunjpura Road, Karnal, Haryana 132001",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.2,
+    "reviews": 340,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 29.6857,
+    "lng": 76.9905,
+    "found_by": "Regional Transport Authority",
+    "search_id": "f5f9752342c403df6ee69e85",
+    "match": {
+     "office_id": "rto-hr05",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-05",
+      "same PIN 132001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc25443f01843bd6a882ad6f",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ23948afad723ead92392c93",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ23948afad723ead92392c93",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ3211a1d38ff9bab1b4b3438",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ3211a1d38ff9bab1b4b3438",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJade5b1bd87dbc8338977a54",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJade5b1bd87dbc8338977a54",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ5868ec6173eb490bda7bf4b",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ5868ec6173eb490bda7bf4b",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding RTA Karnal. Address: Mini Secretariat, Kunjpura Road, Karnal, Haryana 132001.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "132001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "0e8515e7179a745c02e17793",
+    "query": "RTA Karnal phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Karnal is 0184 226 7700.",
+    "first_number": {
+     "display": "0184 226 7700",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0184 226 7700",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "132001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "f191c04e8ee2dfa46bc74869",
+    "query": "RTA Karnal phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Karnal",
+    "how": "matched by location and name",
+    "search_id": "c9eb4364875d871ee5fbc5ca",
+    "query": "RTA Karnal Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Karnal\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Karnal"
+     },
+     "search_id": "f5f9752342c403df6ee69e85"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Karnal",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJc25443f01843bd6a882ad6f"
+     },
+     "search_id": "213040556f6421699b7fa0bc"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Karnal phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Karnal phone number"
+     },
+     "search_id": "1912c1b40c07fd67e972d801"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "0e8515e7179a745c02e17793"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "f191c04e8ee2dfa46bc74869"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Karnal\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Karnal"
+     },
+     "search_id": "c9eb4364875d871ee5fbc5ca"
+    }
+   ],
+   "busy": {
+    "title": "RTA Karnal",
+    "engine": "google_maps",
+    "search_id": "f5f9752342c403df6ee69e85",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Karnal phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr06",
+   "code": "HR-06",
+   "name": "RTA Panipat",
+   "display_name": "RTA Panipat (HR-06)",
+   "office_type": "rto",
+   "aliases": [
+    "Panipat RTO",
+    "RTO Panipat",
+    "Panipat RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Gohana Road, Panipat, Haryana 132103",
+   "pincode": "132103",
+   "email": "rtapnp-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0180 265 1101",
+     "label": "landline",
+     "tel": "+911802651101"
+    },
+    {
+     "display": "0180 265 1102",
+     "label": "landline",
+     "tel": "+911802651102"
+    }
+   ],
+   "listing": {
+    "data_id": "0x8ac30a8ccfc9679c:0x8fd637d812b7561f",
+    "place_id": "ChIJae24082df60a4257380c828",
+    "title": "RTA Panipat (HR-06)",
+    "address": "Mini Secretariat, Gohana Road, Panipat, Haryana 132103",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.0,
+    "reviews": 410,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 29.3909,
+    "lng": 76.9635,
+    "found_by": "Regional Transport Authority",
+    "search_id": "d5a8ba35c9b6dfb5777f338f",
+    "match": {
+     "office_id": "rto-hr06",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-06",
+      "same PIN 132103"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJae24082df60a4257380c828",
+    "phone_display": "0180 265 1101",
+    "phone_verdict": "this office",
+    "phone_detail": "This office's own directory number"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 65,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": true,
+      "detail": "The office's own published directory number.",
+      "points": 20
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ925c2b76d179ae34104136c",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ925c2b76d179ae34104136c",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Panipat is 0180 265 1101. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Gohana Road, Panipat, Haryana 132103.",
+    "first_number": {
+     "display": "0180 265 1101",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0180 265 1101",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "132103"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "e598ec21d93a83b1de5129e9",
+    "query": "RTA Panipat phone number",
+    "repeats_listing_number": true
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Panipat is 0180 265 1101.",
+    "first_number": {
+     "display": "0180 265 1101",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0180 265 1101",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "132103"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "38e90ce507871a82347040bf",
+    "query": "RTA Panipat phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Panipat",
+    "how": "matched by location and name",
+    "search_id": "82289b9f85b17bf88538b703",
+    "query": "RTA Panipat Haryana",
+    "phone_display": "0180 265 1101",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Panipat\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Panipat"
+     },
+     "search_id": "d5a8ba35c9b6dfb5777f338f"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Panipat",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJae24082df60a4257380c828"
+     },
+     "search_id": "a6ec2ad104836904f48b0d43"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Panipat phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Panipat phone number"
+     },
+     "search_id": "34661be938712a9d54535a4e"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "e598ec21d93a83b1de5129e9"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "38e90ce507871a82347040bf"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Panipat\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Panipat"
+     },
+     "search_id": "82289b9f85b17bf88538b703"
+    }
+   ],
+   "busy": {
+    "title": "RTA Panipat",
+    "engine": "google_maps",
+    "search_id": "d5a8ba35c9b6dfb5777f338f",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Panipat phone number",
+    "numbers": [
+     {
+      "display": "0180 265 1101",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr10",
+   "code": "HR-10",
+   "name": "RTA Sonipat",
+   "display_name": "RTA Sonipat (HR-10)",
+   "office_type": "rto",
+   "aliases": [
+    "Sonipat RTO",
+    "Sonepat RTO",
+    "Sonipat RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Subhash Chowk, Sonipat, Haryana 131001",
+   "pincode": "131001",
+   "email": "rtasnp-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0130 222 0001",
+     "label": "landline",
+     "tel": "+911302220001"
+    },
+    {
+     "display": "0130 222 1500",
+     "label": "landline",
+     "tel": "+911302221500"
+    }
+   ],
+   "listing": {
+    "data_id": "0xa3ef8f754e20628e:0xc590f8b5571ac91d",
+    "place_id": "ChIJb94ec8354ac54ff2beecad2",
+    "title": "RTA Sonipat (HR-10)",
+    "address": "Mini Secretariat, Subhash Chowk, Sonipat, Haryana 131001",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.2,
+    "reviews": 310,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.9931,
+    "lng": 77.0151,
+    "found_by": "Regional Transport Authority",
+    "search_id": "a7643bbff3606e4871bbeb03",
+    "match": {
+     "office_id": "rto-hr10",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-10",
+      "same PIN 131001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb94ec8354ac54ff2beecad2",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ6128ea2d3d5576881344acf",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ6128ea2d3d5576881344acf",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJad19bfe7d3c347839e6cd46",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJad19bfe7d3c347839e6cd46",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ20507d2492c960ad4ac4831",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ20507d2492c960ad4ac4831",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding RTA Sonipat. Address: Mini Secretariat, Subhash Chowk, Sonipat, Haryana 131001.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "131001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "3cdba2a371b411aee5a686a9",
+    "query": "RTA Sonipat phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Sonipat is 0130 222 0001.",
+    "first_number": {
+     "display": "0130 222 0001",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0130 222 0001",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "131001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "b74012bf0200f4bf9d3e317c",
+    "query": "RTA Sonipat phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Sonipat",
+    "how": "matched by location and name",
+    "search_id": "0084f356b9ac068e20f367af",
+    "query": "RTA Sonipat Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Sonipat\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Sonipat"
+     },
+     "search_id": "a7643bbff3606e4871bbeb03"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Sonipat",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJb94ec8354ac54ff2beecad2"
+     },
+     "search_id": "ba158776bd47d84aa679b925"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Sonipat phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Sonipat phone number"
+     },
+     "search_id": "5bd29a8b8713e5f5cfca40c7"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "3cdba2a371b411aee5a686a9"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "b74012bf0200f4bf9d3e317c"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Sonipat\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Sonipat"
+     },
+     "search_id": "0084f356b9ac068e20f367af"
+    }
+   ],
+   "busy": {
+    "title": "RTA Sonipat",
+    "engine": "google_maps",
+    "search_id": "a7643bbff3606e4871bbeb03",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Sonipat phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr12",
+   "code": "HR-12",
+   "name": "RTA Rohtak",
+   "display_name": "RTA Rohtak (HR-12)",
+   "office_type": "rto",
+   "aliases": [
+    "Rohtak RTO",
+    "RTO Rohtak",
+    "Rohtak RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Delhi Road, Rohtak, Haryana 124001",
+   "pincode": "124001",
+   "email": "rtartk-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "01262 244 000",
+     "label": "landline",
+     "tel": "+911262244000"
+    },
+    {
+     "display": "01262 244 001",
+     "label": "landline",
+     "tel": "+911262244001"
+    }
+   ],
+   "listing": {
+    "data_id": "0xe242ef941c44d072:0x297fa8cabcf83824",
+    "place_id": "ChIJb4addd02e0c2367419227d8",
+    "title": "RTA Rohtak (HR-12)",
+    "address": "Mini Secretariat, Delhi Road, Rohtak, Haryana 124001",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.3,
+    "reviews": 395,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": false,
+    "lat": 28.8955,
+    "lng": 76.6066,
+    "found_by": "Regional Transport Authority",
+    "search_id": "2ee563cf2a5634c99c9f693d",
+    "match": {
+     "office_id": "rto-hr12",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-12",
+      "same PIN 124001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4addd02e0c2367419227d8",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 55,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Listing is claimed and verified by the department.",
+      "points": 10
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ73ec13161a9b43d9f78bfee",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ73ec13161a9b43d9f78bfee",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ4a124b7863d216ffcc28fab",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ4a124b7863d216ffcc28fab",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJa65ed2520006bc8989c9fc0",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJa65ed2520006bc8989c9fc0",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Rohtak is 01262 244 000. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Delhi Road, Rohtak, Haryana 124001.",
+    "first_number": {
+     "display": "01262 244 000",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01262 244 000",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "124001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "61cebc2f3d14f976b912e40b",
+    "query": "RTA Rohtak phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Rohtak is 01262 244 000.",
+    "first_number": {
+     "display": "01262 244 000",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01262 244 000",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "124001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "682c0a6f0695e6ef604bf93d",
+    "query": "RTA Rohtak phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Rohtak",
+    "how": "matched by location and name",
+    "search_id": "ce6e635eaed4c50690184db9",
+    "query": "RTA Rohtak Haryana",
+    "phone_display": "01262 244 000",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Rohtak\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Rohtak"
+     },
+     "search_id": "2ee563cf2a5634c99c9f693d"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Rohtak",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJb4addd02e0c2367419227d8"
+     },
+     "search_id": "de41e2f8f660208f49066913"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Rohtak phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Rohtak phone number"
+     },
+     "search_id": "1551f595cb8b63ed7a02ead1"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "61cebc2f3d14f976b912e40b"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "682c0a6f0695e6ef604bf93d"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Rohtak\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Rohtak"
+     },
+     "search_id": "ce6e635eaed4c50690184db9"
+    }
+   ],
+   "busy": {
+    "title": "RTA Rohtak",
+    "engine": "google_maps",
+    "search_id": "2ee563cf2a5634c99c9f693d",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Rohtak phone number",
+    "numbers": [
+     {
+      "display": "01262 244 000",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr20",
+   "code": "HR-20",
+   "name": "RTA Hisar",
+   "display_name": "RTA Hisar (HR-20)",
+   "office_type": "rto",
+   "aliases": [
+    "Hisar RTO",
+    "Hissar RTO",
+    "Hisar RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Rajgarh Road, Hisar, Haryana 125001",
+   "pincode": "125001",
+   "email": "rtahsr-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0166 223 3200",
+     "label": "landline",
+     "tel": "+911662233200"
+    },
+    {
+     "display": "0166 223 3201",
+     "label": "landline",
+     "tel": "+911662233201"
+    }
+   ],
+   "listing": {
+    "data_id": "0x940a5b955970e16d:0xddcdc2832140a503",
+    "place_id": "ChIJ7d557505c99b0fc978f71dc",
+    "title": "RTA Hisar (HR-20)",
+    "address": "Mini Secretariat, Rajgarh Road, Hisar, Haryana 125001",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.5,
+    "reviews": 280,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 29.1492,
+    "lng": 75.7217,
+    "found_by": "Regional Transport Authority",
+    "search_id": "a0284100fd6c8876b52db9cb",
+    "match": {
+     "office_id": "rto-hr20",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-20",
+      "same PIN 125001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7d557505c99b0fc978f71dc",
+    "phone_display": "0124 492 5522",
+    "phone_verdict": "not in the directory",
+    "phone_detail": "A number not listed in the official directory"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": false,
+      "detail": "A number not found in the directory.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ7a42177db2d3bada677cb38",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ7a42177db2d3bada677cb38",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ472c7a6cdc016a327f23412",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ472c7a6cdc016a327f23412",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding RTA Hisar. Address: Mini Secretariat, Rajgarh Road, Hisar, Haryana 125001.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "125001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "35fd55d94ea72f3da428a7e7",
+    "query": "RTA Hisar phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Hisar is 0166 223 3200.",
+    "first_number": {
+     "display": "0166 223 3200",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0166 223 3200",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "125001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "74b6e008b7033fb09c7663de",
+    "query": "RTA Hisar phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Hisar",
+    "how": "matched by location and name",
+    "search_id": "31bf781ea2e2b12055c786eb",
+    "query": "RTA Hisar Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Hisar\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Hisar"
+     },
+     "search_id": "a0284100fd6c8876b52db9cb"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Hisar",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ7d557505c99b0fc978f71dc"
+     },
+     "search_id": "4cab624b111e2ba044fc2ee6"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Hisar phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Hisar phone number"
+     },
+     "search_id": "a1a70d7fb44413326aec1a24"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "35fd55d94ea72f3da428a7e7"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "74b6e008b7033fb09c7663de"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Hisar\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Hisar"
+     },
+     "search_id": "31bf781ea2e2b12055c786eb"
+    }
+   ],
+   "busy": {
+    "title": "RTA Hisar",
+    "engine": "google_maps",
+    "search_id": "a0284100fd6c8876b52db9cb",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Hisar phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr14",
+   "code": "HR-14",
+   "name": "RTA Jhajjar",
+   "display_name": "RTA Jhajjar (HR-14)",
+   "office_type": "rto",
+   "aliases": [
+    "Jhajjar RTO",
+    "RTO Jhajjar",
+    "Jhajjar RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Jhajjar, Haryana 124103",
+   "pincode": "124103",
+   "email": "rtajjr-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "01251 252 200",
+     "label": "landline",
+     "tel": "+911251252200"
+    }
+   ],
+   "listing": {
+    "data_id": "0x553d473854b8efc2:0x8cfc7a59d155227e",
+    "place_id": "ChIJa90e8ea2b66c51401aa3601",
+    "title": "RTA Jhajjar (HR-14)",
+    "address": "Mini Secretariat, Jhajjar, Haryana 124103",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.6,
+    "reviews": 195,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.6064,
+    "lng": 76.6565,
+    "found_by": "Regional Transport Authority",
+    "search_id": "f513118f89780c09ff9946b5",
+    "match": {
+     "office_id": "rto-hr14",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-14",
+      "same PIN 124103"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa90e8ea2b66c51401aa3601",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ4dbcd8d26b53093007d8380",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ4dbcd8d26b53093007d8380",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ91da107ad02f839a773054d",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ91da107ad02f839a773054d",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ808f7274c224b0101857175",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ808f7274c224b0101857175",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ4b5235f4eeb887320491d18",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ4b5235f4eeb887320491d18",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Jhajjar is 01251 252 200. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Jhajjar, Haryana 124103.",
+    "first_number": {
+     "display": "01251 252 200",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01251 252 200",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "124103"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "e878faf93367a857ce609cc9",
+    "query": "RTA Jhajjar phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Jhajjar is 01251 252 200.",
+    "first_number": {
+     "display": "01251 252 200",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01251 252 200",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "124103"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "0a37f7a2d95abb38a06c426e",
+    "query": "RTA Jhajjar phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Jhajjar",
+    "how": "matched by location and name",
+    "search_id": "01cf167616f3df793796b006",
+    "query": "RTA Jhajjar Haryana",
+    "phone_display": "01251 252 200",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Jhajjar\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Jhajjar"
+     },
+     "search_id": "f513118f89780c09ff9946b5"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Jhajjar",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJa90e8ea2b66c51401aa3601"
+     },
+     "search_id": "5806102e51e6b22a66e681e1"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Jhajjar phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Jhajjar phone number"
+     },
+     "search_id": "b4e089cc6a546b85e29a0772"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "e878faf93367a857ce609cc9"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "0a37f7a2d95abb38a06c426e"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Jhajjar\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Jhajjar"
+     },
+     "search_id": "01cf167616f3df793796b006"
+    }
+   ],
+   "busy": null,
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Jhajjar phone number",
+    "numbers": [
+     {
+      "display": "01251 252 200",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr36",
+   "code": "HR-36",
+   "name": "RTA Rewari",
+   "display_name": "RTA Rewari (HR-36)",
+   "office_type": "rto",
+   "aliases": [
+    "Rewari RTO",
+    "RTO Rewari",
+    "Rewari RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Bawal Road, Rewari, Haryana 123401",
+   "pincode": "123401",
+   "email": "rtarew-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "01274 225 200",
+     "label": "landline",
+     "tel": "+911274225200"
+    }
+   ],
+   "listing": {
+    "data_id": "0xb999a9172230bb71:0x89ac4a7473205d52",
+    "place_id": "ChIJ0b42b4800321dfe5e28309e",
+    "title": "RTA Rewari (HR-36)",
+    "address": "Mini Secretariat, Bawal Road, Rewari, Haryana 123401",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.4,
+    "reviews": 220,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.1833,
+    "lng": 76.6186,
+    "found_by": "Regional Transport Authority",
+    "search_id": "be3e645fd373332f15b33771",
+    "match": {
+     "office_id": "rto-hr36",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-36",
+      "same PIN 123401"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0b42b4800321dfe5e28309e",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ4ee44b37343aa2b9f498664",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ4ee44b37343aa2b9f498664",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ992a7c848e996e5130e3895",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ992a7c848e996e5130e3895",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ137f7b031e106e9f9e855f4",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ137f7b031e106e9f9e855f4",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding RTA Rewari. Address: Mini Secretariat, Bawal Road, Rewari, Haryana 123401.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "123401"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "bd513791bbd6d8c5eab78f3a",
+    "query": "RTA Rewari phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Rewari is 01274 225 200.",
+    "first_number": {
+     "display": "01274 225 200",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01274 225 200",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "123401"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "484da23933d8c41610ceb95e",
+    "query": "RTA Rewari phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Rewari",
+    "how": "matched by location and name",
+    "search_id": "53a4467056dbcbb2e418e736",
+    "query": "RTA Rewari Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Rewari\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Rewari"
+     },
+     "search_id": "be3e645fd373332f15b33771"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Rewari",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ0b42b4800321dfe5e28309e"
+     },
+     "search_id": "8ef432d267d183cda5ecb5b1"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Rewari phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Rewari phone number"
+     },
+     "search_id": "90a492c00b7a2f573fde94d5"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "bd513791bbd6d8c5eab78f3a"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "484da23933d8c41610ceb95e"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Rewari\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Rewari"
+     },
+     "search_id": "53a4467056dbcbb2e418e736"
+    }
+   ],
+   "busy": {
+    "title": "RTA Rewari",
+    "engine": "google_maps",
+    "search_id": "be3e645fd373332f15b33771",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Rewari phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr02",
+   "code": "HR-02",
+   "name": "RTA Yamunanagar",
+   "display_name": "RTA Yamunanagar (HR-02)",
+   "office_type": "rto",
+   "aliases": [
+    "Yamunanagar RTO",
+    "Jagadhri RTO",
+    "Yamunanagar RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Jagadhri, Yamunanagar, Haryana 135003",
+   "pincode": "135003",
+   "email": "rtaynr-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "01732 237 800",
+     "label": "landline",
+     "tel": "+911732237800"
+    }
+   ],
+   "listing": {
+    "data_id": "0x136b55f9ff218fd6:0x290a0b649f5077d9",
+    "place_id": "ChIJb8dcc1991f2dd4652157ed2",
+    "title": "RTA Yamunanagar (HR-02)",
+    "address": "Mini Secretariat, Jagadhri, Yamunanagar, Haryana 135003",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.5,
+    "reviews": 260,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": false,
+    "lat": 30.1728,
+    "lng": 77.2989,
+    "found_by": "Regional Transport Authority",
+    "search_id": "9a0fadbdfd0c3afc27096294",
+    "match": {
+     "office_id": "rto-hr02",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-02",
+      "same PIN 135003"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8dcc1991f2dd4652157ed2",
+    "phone_display": "01732 237 800",
+    "phone_verdict": "this office",
+    "phone_detail": "This office's own directory number"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 75,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": true,
+      "detail": "The office's own published directory number.",
+      "points": 20
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Listing is claimed and verified by the department.",
+      "points": 10
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ3cda05bafc20e2c6de12c0f",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ3cda05bafc20e2c6de12c0f",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Yamunanagar is 01732 237 800. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Jagadhri, Yamunanagar, Haryana 135003.",
+    "first_number": {
+     "display": "01732 237 800",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01732 237 800",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "135003"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "e579b6ab3f0ad3b5c292d9a1",
+    "query": "RTA Yamunanagar phone number",
+    "repeats_listing_number": true
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Yamunanagar is 01732 237 800.",
+    "first_number": {
+     "display": "01732 237 800",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01732 237 800",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "135003"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "46426482b1383e7bdc5f060d",
+    "query": "RTA Yamunanagar phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Yamunanagar",
+    "how": "matched by location and name",
+    "search_id": "43ff1ba6af060142211e483b",
+    "query": "RTA Yamunanagar Haryana",
+    "phone_display": "01732 237 800",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Yamunanagar\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Yamunanagar"
+     },
+     "search_id": "9a0fadbdfd0c3afc27096294"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Yamunanagar",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJb8dcc1991f2dd4652157ed2"
+     },
+     "search_id": "96b60d1b89bb3595f72c5254"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Yamunanagar phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Yamunanagar phone number"
+     },
+     "search_id": "43899c05174b80f675a5a4a6"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "e579b6ab3f0ad3b5c292d9a1"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "46426482b1383e7bdc5f060d"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Yamunanagar\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Yamunanagar"
+     },
+     "search_id": "43ff1ba6af060142211e483b"
+    }
+   ],
+   "busy": {
+    "title": "RTA Yamunanagar",
+    "engine": "google_maps",
+    "search_id": "9a0fadbdfd0c3afc27096294",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Yamunanagar phone number",
+    "numbers": [
+     {
+      "display": "01732 237 800",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr07",
+   "code": "HR-07",
+   "name": "RTA Kurukshetra",
+   "display_name": "RTA Kurukshetra (HR-07)",
+   "office_type": "rto",
+   "aliases": [
+    "Kurukshetra RTO",
+    "Thanesar RTO",
+    "Kurukshetra RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Kurukshetra, Haryana 136118",
+   "pincode": "136118",
+   "email": "rtakkr-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "01744 220 001",
+     "label": "landline",
+     "tel": "+911744220001"
+    }
+   ],
+   "listing": {
+    "data_id": "0x8b7eab70bd93e220:0xdb40b6b61f41b526",
+    "place_id": "ChIJ8dbb66a5a12cb58b3a3884a",
+    "title": "RTA Kurukshetra (HR-07)",
+    "address": "Mini Secretariat, Kurukshetra, Haryana 136118",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.6,
+    "reviews": 210,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 29.9695,
+    "lng": 76.8783,
+    "found_by": "Regional Transport Authority",
+    "search_id": "8589c97bf32af6ff1fd04ba9",
+    "match": {
+     "office_id": "rto-hr07",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-07",
+      "same PIN 136118"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dbb66a5a12cb58b3a3884a",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ72aa766b2080ab2c55d5ffc",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ72aa766b2080ab2c55d5ffc",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ954a2dc8bf80101a5766d03",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ954a2dc8bf80101a5766d03",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding RTA Kurukshetra. Address: Mini Secretariat, Kurukshetra, Haryana 136118.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "136118"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "45acdef57a87d4d271bca29e",
+    "query": "RTA Kurukshetra phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Kurukshetra is 01744 220 001.",
+    "first_number": {
+     "display": "01744 220 001",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01744 220 001",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "136118"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "7b500d0aa2a1cf0e09fd782c",
+    "query": "RTA Kurukshetra phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Kurukshetra",
+    "how": "matched by location and name",
+    "search_id": "2f3f302be2aeaa2e92c9afbd",
+    "query": "RTA Kurukshetra Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Kurukshetra\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Kurukshetra"
+     },
+     "search_id": "8589c97bf32af6ff1fd04ba9"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Kurukshetra",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ8dbb66a5a12cb58b3a3884a"
+     },
+     "search_id": "463127e1f319efa8a8abb6f8"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Kurukshetra phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Kurukshetra phone number"
+     },
+     "search_id": "23a97ec49446f76f071f7135"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "45acdef57a87d4d271bca29e"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "7b500d0aa2a1cf0e09fd782c"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Kurukshetra\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Kurukshetra"
+     },
+     "search_id": "2f3f302be2aeaa2e92c9afbd"
+    }
+   ],
+   "busy": {
+    "title": "RTA Kurukshetra",
+    "engine": "google_maps",
+    "search_id": "8589c97bf32af6ff1fd04ba9",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Kurukshetra phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "rto-hr24",
+   "code": "HR-24",
+   "name": "RTA Sirsa",
+   "display_name": "RTA Sirsa (HR-24)",
+   "office_type": "rto",
+   "aliases": [
+    "Sirsa RTO",
+    "RTO Sirsa",
+    "Sirsa RTA"
+   ],
+   "kind": "RTA",
+   "address": "Mini Secretariat, Barnala Road, Sirsa, Haryana 125055",
+   "pincode": "125055",
+   "email": "rtasrs-hry@gov.in",
+   "source_url": "https://hartrans.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0166 624 8880",
+     "label": "landline",
+     "tel": "+911666248880"
+    }
+   ],
+   "listing": {
+    "data_id": "0x5be1f29ebfbb0026:0x87536e40e6eef43c",
+    "place_id": "ChIJ98af9805d780199b1fbd6a7",
+    "title": "RTA Sirsa (HR-24)",
+    "address": "Mini Secretariat, Barnala Road, Sirsa, Haryana 125055",
+    "website": "https://hartrans.gov.in",
+    "rating": 3.7,
+    "reviews": 185,
+    "category": "Department of motor vehicles",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 29.535,
+    "lng": 75.0298,
+    "found_by": "Regional Transport Authority",
+    "search_id": "62fe867ca432443b8be6586a",
+    "match": {
+     "office_id": "rto-hr24",
+     "evidence": [
+      "code",
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names HR-24",
+      "same PIN 125055"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98af9805d780199b1fbd6a7",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ58ff583262ea5689ff19e62",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ58ff583262ea5689ff19e62",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJee25719bba4a0c462c8773b",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJee25719bba4a0c462c8773b",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ914626eb99a8c3b662ea650",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ914626eb99a8c3b662ea650",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for RTA Sirsa is 0166 624 8880. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Mini Secretariat, Barnala Road, Sirsa, Haryana 125055.",
+    "first_number": {
+     "display": "0166 624 8880",
+     "surface": "ai_overview",
+     "source": "hartrans.gov.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0166 624 8880",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "125055"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana Portal",
+      "https://hartrans.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "1de9e8183898296b7a0f759f",
+    "query": "RTA Sirsa phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for RTA Sirsa is 0166 624 8880.",
+    "first_number": {
+     "display": "0166 624 8880",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0166 624 8880",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "125055"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Transport Department, Haryana",
+      "https://hartrans.gov.in"
+     ]
+    ],
+    "search_id": "7842548c5a16e33c00295f70",
+    "query": "RTA Sirsa phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "RTA Sirsa",
+    "how": "matched by location and name",
+    "search_id": "71b5a9a9520eeaaca9947a57",
+    "query": "RTA Sirsa Haryana",
+    "phone_display": "0166 624 8880",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"RTA Sirsa\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "RTA Sirsa"
+     },
+     "search_id": "62fe867ca432443b8be6586a"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for RTA Sirsa",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ98af9805d780199b1fbd6a7"
+     },
+     "search_id": "614312fb4f827102c92dab64"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"RTA Sirsa phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "RTA Sirsa phone number"
+     },
+     "search_id": "e05a4310217bb34aa8617800"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "1de9e8183898296b7a0f759f"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "7842548c5a16e33c00295f70"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"RTA Sirsa\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "RTA Sirsa"
+     },
+     "search_id": "71b5a9a9520eeaaca9947a57"
+    }
+   ],
+   "busy": {
+    "title": "RTA Sirsa",
+    "engine": "google_maps",
+    "search_id": "62fe867ca432443b8be6586a",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "RTA Sirsa phone number",
+    "numbers": [
+     {
+      "display": "0166 624 8880",
+      "surface": "ai_overview",
+      "source": "hartrans.gov.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  }
+ ],
+ "timelines": [
+  {
+   "id": "learners-licence",
+   "office_type": "rto",
+   "name": "Issue of learner's licence",
+   "days": 7,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "7 working days"
+  },
+  {
+   "id": "driving-licence",
+   "office_type": "rto",
+   "name": "Issue of driving licence",
+   "days": 15,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "15 working days"
+  },
+  {
+   "id": "vehicle-registration",
+   "office_type": "rto",
+   "name": "Registration of vehicle",
+   "days": 7,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "7 working days"
+  },
+  {
+   "id": "duplicate-licence",
+   "office_type": "rto",
+   "name": "Duplicate driving licence",
+   "days": 7,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "7 working days"
+  },
+  {
+   "id": "duplicate-rc",
+   "office_type": "rto",
+   "name": "Duplicate registration certificate",
+   "days": 10,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "10 working days"
+  },
+  {
+   "id": "duplicate-learners-licence",
+   "office_type": "rto",
+   "name": "Duplicate learner's licence",
+   "days": 3,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "3 working days"
+  },
+  {
+   "id": "international-driving-permit",
+   "office_type": "rto",
+   "name": "International driving permit",
+   "days": 5,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "5 working days"
+  },
+  {
+   "id": "temporary-registration",
+   "office_type": "rto",
+   "name": "Temporary registration",
+   "days": 3,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "3 working days"
+  },
+  {
+   "id": "transfer-of-ownership",
+   "office_type": "rto",
+   "name": "Transfer of vehicle ownership",
+   "days": 7,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "7 working days"
+  },
+  {
+   "id": "hypothecation",
+   "office_type": "rto",
+   "name": "Hypothecation entry (hire purchase, lease)",
+   "days": 7,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "7 working days"
+  },
+  {
+   "id": "clearance-certificate",
+   "office_type": "rto",
+   "name": "Clearance (NOC) certificate",
+   "days": 7,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "7 working days"
+  },
+  {
+   "id": "licence-renewal",
+   "office_type": "rto",
+   "name": "Renewal of driving licence",
+   "days": 10,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "10 working days"
+  },
+  {
+   "id": "rc-renewal",
+   "office_type": "rto",
+   "name": "Renewal of registration certificate (non-transport)",
+   "days": 10,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "10 working days"
+  },
+  {
+   "id": "add-vehicle-class",
+   "office_type": "rto",
+   "name": "Add a vehicle class to a driving licence",
+   "days": 10,
+   "source_url": "https://haryanartsc.gov.in",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://haryanartsc.gov.in",
+   "limit": "10 working days"
+  }
+ ],
+ "appeals": {
+  "designated_officer": "Sub-Divisional Officer (Civil) / Secretary, Regional Transport Authority (RTA)",
+  "first_appeal": "Deputy Commissioner / First Grievance Redressal Authority",
+  "first_appeal_days": 30,
+  "second_appeal": "Haryana Right to Service Commission",
+  "second_appeal_days": 30
+ },
+ "helpline": "1800 180 2057",
+ "grievance": null,
+ "unmatched": [],
+ "lookalikes": [
+  {
+   "title": "Haryana Online RTO Services (Private)",
+   "category": "Association / Organization",
+   "pincode": "122001",
+   "reviews": 142,
+   "lat": 28.461,
+   "lng": 77.028
+  }
+ ],
+ "sweep": [
+  {
+   "engine": "google_maps",
+   "purpose": "Maps sweep: \"Regional Transport Authority\"",
+   "params": {
+    "engine": "google_maps",
+    "q": "Regional Transport Authority",
+    "ll": "@29.0588,76.0856,8z"
+   },
+   "search_id": "60b09435d2e55e89e57cab3a"
+  },
+  {
+   "engine": "google_maps",
+   "purpose": "Maps sweep: \"Sub Registrar Office\"",
+   "params": {
+    "engine": "google_maps",
+    "q": "Sub Registrar Office",
+    "ll": "@29.0588,76.0856,8z"
+   },
+   "search_id": "c80794ca2312e61f9d966e72"
+  }
+ ],
+ "searches_by_engine": {
+  "google_maps": 30,
+  "google_maps_reviews": 45,
+  "google": 15,
+  "google_ai_overview": 15,
+  "google_ai_mode": 15,
+  "bing_maps": 15
+ },
+ "searches": 135
+}

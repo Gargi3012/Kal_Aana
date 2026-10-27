@@ -1,0 +1,5219 @@
+{
+ "city": "Haryana",
+ "office_type": "passport",
+ "profile": {
+  "label": "Passport Office",
+  "short": "passport office",
+  "plural": "passport offices",
+  "department": "Ministry of External Affairs",
+  "officer": "Regional Passport Officer",
+  "review_queries": [
+   "phone",
+   "agent",
+   "verification"
+  ],
+  "promise": "the Citizen's Charter",
+  "promise_name": "Passport Seva Citizen's Charter (Ministry of External Affairs)",
+  "directory_url": "https://www.passportindia.gov.in"
+ },
+ "as_of": "2026-10-08",
+ "rules": {
+  "issue_window_days": 365,
+  "min_sample": 10,
+  "recent_days": 730,
+  "breach_margin_pct": 25
+ },
+ "headline": {
+  "offices": 10,
+  "official_phone": 10,
+  "official_landline": 10,
+  "listed": 10,
+  "not_found": [],
+  "listing_no_phone": 6,
+  "listing_official_phone": 2,
+  "listing_phone_shown": 4,
+  "listing_phone_not_in_directory": 2,
+  "shared_listing_numbers": [],
+  "listing_unclaimed": 7,
+  "ai_overviews": 10,
+  "ai_first_number_right": 5,
+  "ai_address_wrong": [],
+  "ai_first_number_from_listing": 2,
+  "bing_checked": 10,
+  "bing_found": 10,
+  "bing_no_phone": 5,
+  "bing_official_phone": 5,
+  "ai_mode_answers": 10,
+  "ai_mode_first_number_right": 10,
+  "ai_mode_address_wrong": [],
+  "citizen_checked": 10,
+  "sampled": 10,
+  "recent_breaches": 0,
+  "enough_evidence": 10
+ },
+ "offices": [
+  {
+   "id": "rpo-chandigarh",
+   "code": "",
+   "name": "Regional Passport Office, Chandigarh",
+   "display_name": "Regional Passport Office, Chandigarh",
+   "office_type": "passport",
+   "aliases": [
+    "RPO Chandigarh",
+    "Chandigarh Passport Office",
+    "Regional Passport Office"
+   ],
+   "kind": "RPO",
+   "address": "SCO 28-32, Sector 34-A, Chandigarh 160022",
+   "pincode": "160022",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0172 260 1281",
+     "label": "landline",
+     "tel": "+911722601281"
+    },
+    {
+     "display": "0172 262 4987",
+     "label": "landline",
+     "tel": "+911722624987"
+    }
+   ],
+   "listing": {
+    "data_id": "0x94fc4ed3e4b16119:0xe1431fdefdd72b7b",
+    "place_id": "ChIJe4233072e6444538241a976",
+    "title": "Regional Passport Office, Chandigarh",
+    "address": "SCO 28-32, Sector 34-A, Chandigarh 160022",
+    "website": "https://passportindia.gov.in",
+    "rating": 4.0,
+    "reviews": 1820,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": false,
+    "lat": 30.7226,
+    "lng": 76.7684,
+    "found_by": "Passport Office",
+    "search_id": "85348d69a6121475deb635a0",
+    "match": {
+     "office_id": "rpo-chandigarh",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Regional Passport Office, Chandigarh",
+      "same PIN 160022"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4233072e6444538241a976",
+    "phone_display": "0172 260 1281",
+    "phone_verdict": "this office",
+    "phone_detail": "This office's own directory number"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 75,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": true,
+      "detail": "The office's own published directory number.",
+      "points": 20
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Listing is claimed and verified by the department.",
+      "points": 10
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ288513e77d54f95ad2fec1c",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ288513e77d54f95ad2fec1c",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ17cc2a8be7f6196efed4947",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ17cc2a8be7f6196efed4947",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for Regional Passport Office, Chandigarh is 0172 260 1281. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at SCO 28-32, Sector 34-A, Chandigarh 160022.",
+    "first_number": {
+     "display": "0172 260 1281",
+     "surface": "ai_overview",
+     "source": "jamabandi.nic.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0172 260 1281",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "160022"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "6f1863ee4b6a9522ab857079",
+    "query": "Regional Passport Office, Chandigarh phone number",
+    "repeats_listing_number": true
+   },
+   "ai_mode": {
+    "text": "Contact number for Regional Passport Office, Chandigarh is 0172 260 1281.",
+    "first_number": {
+     "display": "0172 260 1281",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0172 260 1281",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "160022"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "389d26b0ffc67c55e8c00300",
+    "query": "Regional Passport Office, Chandigarh phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Regional Passport Office, Chandigarh",
+    "how": "matched by location and name",
+    "search_id": "6471aa07e8a28860b93e6700",
+    "query": "Regional Passport Office, Chandigarh Haryana",
+    "phone_display": "0172 260 1281",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Regional Passport Office, Chandigarh\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Regional Passport Office, Chandigarh"
+     },
+     "search_id": "85348d69a6121475deb635a0"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Regional Passport Office, Chandigarh",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJe4233072e6444538241a976"
+     },
+     "search_id": "c8811fb0b8f8315e5dcbf7a9"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Regional Passport Office, Chandigarh phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Regional Passport Office, Chandigarh phone number"
+     },
+     "search_id": "b32c9f0de606f76af46a9db8"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "6f1863ee4b6a9522ab857079"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "389d26b0ffc67c55e8c00300"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Regional Passport Office, Chandigarh\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Regional Passport Office, Chandigarh"
+     },
+     "search_id": "6471aa07e8a28860b93e6700"
+    }
+   ],
+   "busy": {
+    "title": "Regional Passport Office, Chandigarh",
+    "engine": "google_maps",
+    "search_id": "85348d69a6121475deb635a0",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Regional Passport Office, Chandigarh phone number",
+    "numbers": [
+     {
+      "display": "0172 260 1281",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "psk-gurugram",
+   "code": "",
+   "name": "Passport Seva Kendra, Gurugram",
+   "display_name": "Passport Seva Kendra, Gurugram",
+   "office_type": "passport",
+   "aliases": [
+    "PSK Gurgaon",
+    "PSK Gurugram",
+    "Udyog Vihar Passport Office"
+   ],
+   "kind": "PSK",
+   "address": "MM Towers, Plot No. 8 & 9, Sub. Major Laxmi Chand Road, Udyog Vihar Phase IV, Sector 18, Gurugram, Haryana 122015",
+   "pincode": "122015",
+   "email": "rpo.delhi@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0124 400 1800",
+     "label": "landline",
+     "tel": "+911244001800"
+    }
+   ],
+   "listing": {
+    "data_id": "0x103d570e09108c56:0xcb54fb68bc91d2b6",
+    "place_id": "ChIJ219b72b04b4e16593a49c8f",
+    "title": "Passport Seva Kendra, Gurugram",
+    "address": "MM Towers, Plot No. 8 & 9, Sub. Major Laxmi Chand Road, Udyog Vihar Phase IV, Sector 18, Gurugram, Haryana 122015",
+    "website": "https://passportindia.gov.in",
+    "rating": 4.2,
+    "reviews": 2450,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.4986,
+    "lng": 77.0862,
+    "found_by": "Passport Office",
+    "search_id": "efcfd02712fe12be96e56a7e",
+    "match": {
+     "office_id": "psk-gurugram",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Passport Seva Kendra, Gurugram",
+      "same PIN 122015"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ219b72b04b4e16593a49c8f",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ39d2c05d185dd8e48a26b97",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ39d2c05d185dd8e48a26b97",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ702f85cfc38a2ca913933d0",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ702f85cfc38a2ca913933d0",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJb7675ce8ac2ef0564c30eaf",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJb7675ce8ac2ef0564c30eaf",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ651eeea4d8ab45ade05f46d",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ651eeea4d8ab45ade05f46d",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding Passport Seva Kendra, Gurugram. Address: MM Towers, Plot No. 8 & 9, Sub. Major Laxmi Chand Road, Udyog Vihar Phase IV, Sector 18, Gurugram, Haryana 122015.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "122015"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "0ec5daf959b1a8b0a63cedaf",
+    "query": "Passport Seva Kendra, Gurugram phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Passport Seva Kendra, Gurugram is 0124 400 1800.",
+    "first_number": {
+     "display": "0124 400 1800",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0124 400 1800",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "122015"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "e5b39e822cf3ff97c8ac2459",
+    "query": "Passport Seva Kendra, Gurugram phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Passport Seva Kendra, Gurugram",
+    "how": "matched by location and name",
+    "search_id": "52d28307f952e53c3415d7ed",
+    "query": "Passport Seva Kendra, Gurugram Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Passport Seva Kendra, Gurugram\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Passport Seva Kendra, Gurugram"
+     },
+     "search_id": "efcfd02712fe12be96e56a7e"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Passport Seva Kendra, Gurugram",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ219b72b04b4e16593a49c8f"
+     },
+     "search_id": "99345a240856041bfae420fe"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Passport Seva Kendra, Gurugram phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Passport Seva Kendra, Gurugram phone number"
+     },
+     "search_id": "98e9782533f9dde9d8973d95"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "0ec5daf959b1a8b0a63cedaf"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "e5b39e822cf3ff97c8ac2459"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Passport Seva Kendra, Gurugram\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Passport Seva Kendra, Gurugram"
+     },
+     "search_id": "52d28307f952e53c3415d7ed"
+    }
+   ],
+   "busy": {
+    "title": "Passport Seva Kendra, Gurugram",
+    "engine": "google_maps",
+    "search_id": "efcfd02712fe12be96e56a7e",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Passport Seva Kendra, Gurugram phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "psk-ambala",
+   "code": "",
+   "name": "Passport Seva Kendra, Ambala",
+   "display_name": "Passport Seva Kendra, Ambala",
+   "office_type": "passport",
+   "aliases": [
+    "PSK Ambala",
+    "Ambala Passport Office"
+   ],
+   "kind": "PSK",
+   "address": "Near Aggarsain Chowk, Ambala City, Haryana 134003",
+   "pincode": "134003",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0171 255 0180",
+     "label": "landline",
+     "tel": "+911712550180"
+    }
+   ],
+   "listing": {
+    "data_id": "0x8e5fb785220db2ae:0xecc848ea055e783c",
+    "place_id": "ChIJ4a55a5085ff46fa50f2e363",
+    "title": "Passport Seva Kendra, Ambala",
+    "address": "Near Aggarsain Chowk, Ambala City, Haryana 134003",
+    "website": "https://passportindia.gov.in",
+    "rating": 4.1,
+    "reviews": 980,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 30.372,
+    "lng": 76.779,
+    "found_by": "Passport Office",
+    "search_id": "5ab49cd746b56b9566fe7451",
+    "match": {
+     "office_id": "psk-ambala",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Passport Seva Kendra, Ambala",
+      "same PIN 134003"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4a55a5085ff46fa50f2e363",
+    "phone_display": "1800 258 1800",
+    "phone_verdict": "national helpline",
+    "phone_detail": "1800 258 1800 is the National Passport Helpline, a national queue, not this office."
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "1800 258 1800",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": false,
+      "detail": "1800 258 1800 is the National Passport Helpline, a national queue, not this office.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ96e86a1665024afdcdc3c73",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ96e86a1665024afdcdc3c73",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ6232448ad857c07fce3feae",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ6232448ad857c07fce3feae",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for Passport Seva Kendra, Ambala is 0171 255 0180. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Near Aggarsain Chowk, Ambala City, Haryana 134003.",
+    "first_number": {
+     "display": "0171 255 0180",
+     "surface": "ai_overview",
+     "source": "jamabandi.nic.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0171 255 0180",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "134003"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "567db3e5ba7b5233a58f3bdd",
+    "query": "Passport Seva Kendra, Ambala phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Passport Seva Kendra, Ambala is 0171 255 0180.",
+    "first_number": {
+     "display": "0171 255 0180",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0171 255 0180",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "134003"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "84c07e12607bfa5d9fe7b446",
+    "query": "Passport Seva Kendra, Ambala phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Passport Seva Kendra, Ambala",
+    "how": "matched by location and name",
+    "search_id": "20ae06ee353d5bfba814baaa",
+    "query": "Passport Seva Kendra, Ambala Haryana",
+    "phone_display": "0171 255 0180",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Passport Seva Kendra, Ambala\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Passport Seva Kendra, Ambala"
+     },
+     "search_id": "5ab49cd746b56b9566fe7451"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Passport Seva Kendra, Ambala",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ4a55a5085ff46fa50f2e363"
+     },
+     "search_id": "a759810ef2671904f58e9a06"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Passport Seva Kendra, Ambala phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Passport Seva Kendra, Ambala phone number"
+     },
+     "search_id": "abfdcde5444c8f76ded7a033"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "567db3e5ba7b5233a58f3bdd"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "84c07e12607bfa5d9fe7b446"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Passport Seva Kendra, Ambala\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Passport Seva Kendra, Ambala"
+     },
+     "search_id": "20ae06ee353d5bfba814baaa"
+    }
+   ],
+   "busy": {
+    "title": "Passport Seva Kendra, Ambala",
+    "engine": "google_maps",
+    "search_id": "5ab49cd746b56b9566fe7451",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Passport Seva Kendra, Ambala phone number",
+    "numbers": [
+     {
+      "display": "0171 255 0180",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "popsk-faridabad",
+   "code": "",
+   "name": "Post Office Passport Seva Kendra, Faridabad",
+   "display_name": "Post Office Passport Seva Kendra, Faridabad",
+   "office_type": "passport",
+   "aliases": [
+    "POPSK Faridabad",
+    "Faridabad Passport Office"
+   ],
+   "kind": "POPSK",
+   "address": "Head Post Office, Sector 16, NIT Faridabad, Haryana 121001",
+   "pincode": "121001",
+   "email": "rpo.delhi@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0129 241 2800",
+     "label": "landline",
+     "tel": "+911292412800"
+    }
+   ],
+   "listing": {
+    "data_id": "0x62ce709ece8582a4:0x216a866a5f4fd133",
+    "place_id": "ChIJ0fc357d2481f8eaa41d1bf6",
+    "title": "Post Office Passport Seva Kendra, Faridabad",
+    "address": "Head Post Office, Sector 16, NIT Faridabad, Haryana 121001",
+    "website": "https://passportindia.gov.in",
+    "rating": 3.9,
+    "reviews": 720,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.399,
+    "lng": 77.305,
+    "found_by": "Passport Office",
+    "search_id": "98635b601e2e16591f3e6535",
+    "match": {
+     "office_id": "popsk-faridabad",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Post Office Passport Seva Kendra, Faridabad",
+      "same PIN 121001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fc357d2481f8eaa41d1bf6",
+    "phone_display": "0124 492 5522",
+    "phone_verdict": "not in the directory",
+    "phone_detail": "A number not listed in the official directory"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": false,
+      "detail": "A number not found in the directory.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ3b982356d7b8d81275914ab",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ3b982356d7b8d81275914ab",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ9ffe19b62c40bade9d0301c",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ9ffe19b62c40bade9d0301c",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJc30f10a0106b2e685b23d57",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJc30f10a0106b2e685b23d57",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding Post Office Passport Seva Kendra, Faridabad. Address: Head Post Office, Sector 16, NIT Faridabad, Haryana 121001.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "121001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "e80b9c6a7c0e22b06fdd5c5e",
+    "query": "Post Office Passport Seva Kendra, Faridabad phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Post Office Passport Seva Kendra, Faridabad is 0129 241 2800.",
+    "first_number": {
+     "display": "0129 241 2800",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0129 241 2800",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "121001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "d32ffa9bc36a2e232c923be0",
+    "query": "Post Office Passport Seva Kendra, Faridabad phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Post Office Passport Seva Kendra, Faridabad",
+    "how": "matched by location and name",
+    "search_id": "ee06451eccc5cb83b01bac66",
+    "query": "Post Office Passport Seva Kendra, Faridabad Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Post Office Passport Seva Kendra, Faridabad\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Post Office Passport Seva Kendra, Faridabad"
+     },
+     "search_id": "98635b601e2e16591f3e6535"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Post Office Passport Seva Kendra, Faridabad",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ0fc357d2481f8eaa41d1bf6"
+     },
+     "search_id": "65052a80320eb7c5efc6885f"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Post Office Passport Seva Kendra, Faridabad phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Post Office Passport Seva Kendra, Faridabad phone number"
+     },
+     "search_id": "2adce8d086add20dc2d51f52"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "e80b9c6a7c0e22b06fdd5c5e"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "d32ffa9bc36a2e232c923be0"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Post Office Passport Seva Kendra, Faridabad\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Post Office Passport Seva Kendra, Faridabad"
+     },
+     "search_id": "ee06451eccc5cb83b01bac66"
+    }
+   ],
+   "busy": {
+    "title": "Post Office Passport Seva Kendra, Faridabad",
+    "engine": "google_maps",
+    "search_id": "98635b601e2e16591f3e6535",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Post Office Passport Seva Kendra, Faridabad phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "popsk-karnal",
+   "code": "",
+   "name": "Post Office Passport Seva Kendra, Karnal",
+   "display_name": "Post Office Passport Seva Kendra, Karnal",
+   "office_type": "passport",
+   "aliases": [
+    "POPSK Karnal",
+    "Karnal Passport Office"
+   ],
+   "kind": "POPSK",
+   "address": "Head Post Office, Kunjpura Road, Karnal, Haryana 132001",
+   "pincode": "132001",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0184 225 2100",
+     "label": "landline",
+     "tel": "+911842252100"
+    }
+   ],
+   "listing": {
+    "data_id": "0x875f7e8e40e793fa:0x9eb38329a6b9c4ac",
+    "place_id": "ChIJbe416132ef84aa0d9d806b8",
+    "title": "Post Office Passport Seva Kendra, Karnal",
+    "address": "Head Post Office, Kunjpura Road, Karnal, Haryana 132001",
+    "website": "https://passportindia.gov.in",
+    "rating": 4.0,
+    "reviews": 490,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": false,
+    "lat": 29.686,
+    "lng": 76.992,
+    "found_by": "Passport Office",
+    "search_id": "b7a02e074bdec8c00128d11b",
+    "match": {
+     "office_id": "popsk-karnal",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Post Office Passport Seva Kendra, Karnal",
+      "same PIN 132001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbe416132ef84aa0d9d806b8",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 55,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Listing is claimed and verified by the department.",
+      "points": 10
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJb1b3ff18a0a0dcd59faaafd",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJb1b3ff18a0a0dcd59faaafd",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for Post Office Passport Seva Kendra, Karnal is 0184 225 2100. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Head Post Office, Kunjpura Road, Karnal, Haryana 132001.",
+    "first_number": {
+     "display": "0184 225 2100",
+     "surface": "ai_overview",
+     "source": "jamabandi.nic.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0184 225 2100",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "132001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "60faa0911c3b5a2dedf68aef",
+    "query": "Post Office Passport Seva Kendra, Karnal phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Post Office Passport Seva Kendra, Karnal is 0184 225 2100.",
+    "first_number": {
+     "display": "0184 225 2100",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0184 225 2100",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "132001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "8eb2225558bbff9cb87c0cd4",
+    "query": "Post Office Passport Seva Kendra, Karnal phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Post Office Passport Seva Kendra, Karnal",
+    "how": "matched by location and name",
+    "search_id": "2c26815cafba36bbc4ffcef4",
+    "query": "Post Office Passport Seva Kendra, Karnal Haryana",
+    "phone_display": "0184 225 2100",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Post Office Passport Seva Kendra, Karnal\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Post Office Passport Seva Kendra, Karnal"
+     },
+     "search_id": "b7a02e074bdec8c00128d11b"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Post Office Passport Seva Kendra, Karnal",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJbe416132ef84aa0d9d806b8"
+     },
+     "search_id": "34a546bed15b4d0e3e61a4f6"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Post Office Passport Seva Kendra, Karnal phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Post Office Passport Seva Kendra, Karnal phone number"
+     },
+     "search_id": "35b4c55fb891ff966cf94580"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "60faa0911c3b5a2dedf68aef"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "8eb2225558bbff9cb87c0cd4"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Post Office Passport Seva Kendra, Karnal\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Post Office Passport Seva Kendra, Karnal"
+     },
+     "search_id": "2c26815cafba36bbc4ffcef4"
+    }
+   ],
+   "busy": {
+    "title": "Post Office Passport Seva Kendra, Karnal",
+    "engine": "google_maps",
+    "search_id": "b7a02e074bdec8c00128d11b",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Post Office Passport Seva Kendra, Karnal phone number",
+    "numbers": [
+     {
+      "display": "0184 225 2100",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "popsk-rohtak",
+   "code": "",
+   "name": "Post Office Passport Seva Kendra, Rohtak",
+   "display_name": "Post Office Passport Seva Kendra, Rohtak",
+   "office_type": "passport",
+   "aliases": [
+    "POPSK Rohtak",
+    "Rohtak Passport Office"
+   ],
+   "kind": "POPSK",
+   "address": "Head Post Office, Civil Lines, Rohtak, Haryana 124001",
+   "pincode": "124001",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "01262 254 100",
+     "label": "landline",
+     "tel": "+911262254100"
+    }
+   ],
+   "listing": {
+    "data_id": "0x8a27d7ee1db2b131:0x04d8548da2f41b9d",
+    "place_id": "ChIJ8d603c6ccc0c3543d258968",
+    "title": "Post Office Passport Seva Kendra, Rohtak",
+    "address": "Head Post Office, Civil Lines, Rohtak, Haryana 124001",
+    "website": "https://passportindia.gov.in",
+    "rating": 3.8,
+    "reviews": 530,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.898,
+    "lng": 76.611,
+    "found_by": "Passport Office",
+    "search_id": "2b56178a8bd4f19c17084fea",
+    "match": {
+     "office_id": "popsk-rohtak",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Post Office Passport Seva Kendra, Rohtak",
+      "same PIN 124001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8d603c6ccc0c3543d258968",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ517ec50d2aca76bf6be6e08",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ517ec50d2aca76bf6be6e08",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ6bf096942faf74164351659",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ6bf096942faf74164351659",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding Post Office Passport Seva Kendra, Rohtak. Address: Head Post Office, Civil Lines, Rohtak, Haryana 124001.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "124001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "720e57899ddec2186c8bfcbf",
+    "query": "Post Office Passport Seva Kendra, Rohtak phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Post Office Passport Seva Kendra, Rohtak is 01262 254 100.",
+    "first_number": {
+     "display": "01262 254 100",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "01262 254 100",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "124001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "bf968d2fa030f8fffcd42894",
+    "query": "Post Office Passport Seva Kendra, Rohtak phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Post Office Passport Seva Kendra, Rohtak",
+    "how": "matched by location and name",
+    "search_id": "eaf051bf93620e058ab59c8e",
+    "query": "Post Office Passport Seva Kendra, Rohtak Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Post Office Passport Seva Kendra, Rohtak\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Post Office Passport Seva Kendra, Rohtak"
+     },
+     "search_id": "2b56178a8bd4f19c17084fea"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Post Office Passport Seva Kendra, Rohtak",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ8d603c6ccc0c3543d258968"
+     },
+     "search_id": "bad0bf1cbec1f44de44a7aa7"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Post Office Passport Seva Kendra, Rohtak phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Post Office Passport Seva Kendra, Rohtak phone number"
+     },
+     "search_id": "d05e4b06196fa61721989163"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "720e57899ddec2186c8bfcbf"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "bf968d2fa030f8fffcd42894"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Post Office Passport Seva Kendra, Rohtak\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Post Office Passport Seva Kendra, Rohtak"
+     },
+     "search_id": "eaf051bf93620e058ab59c8e"
+    }
+   ],
+   "busy": {
+    "title": "Post Office Passport Seva Kendra, Rohtak",
+    "engine": "google_maps",
+    "search_id": "2b56178a8bd4f19c17084fea",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Post Office Passport Seva Kendra, Rohtak phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "popsk-hisar",
+   "code": "",
+   "name": "Post Office Passport Seva Kendra, Hisar",
+   "display_name": "Post Office Passport Seva Kendra, Hisar",
+   "office_type": "passport",
+   "aliases": [
+    "POPSK Hisar",
+    "Hisar Passport Office"
+   ],
+   "kind": "POPSK",
+   "address": "Head Post Office, Hisar, Haryana 125001",
+   "pincode": "125001",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0166 223 2100",
+     "label": "landline",
+     "tel": "+911662232100"
+    }
+   ],
+   "listing": {
+    "data_id": "0xa11b2ce03b43414d:0x3082ce5a90a6b6c0",
+    "place_id": "ChIJ01a34778225221d743fc728",
+    "title": "Post Office Passport Seva Kendra, Hisar",
+    "address": "Head Post Office, Hisar, Haryana 125001",
+    "website": "https://passportindia.gov.in",
+    "rating": 3.9,
+    "reviews": 410,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 29.151,
+    "lng": 75.725,
+    "found_by": "Passport Office",
+    "search_id": "71e51f996395a026bb9ed781",
+    "match": {
+     "office_id": "popsk-hisar",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Post Office Passport Seva Kendra, Hisar",
+      "same PIN 125001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01a34778225221d743fc728",
+    "phone_display": "0166 223 2100",
+    "phone_verdict": "this office",
+    "phone_detail": "This office's own directory number"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 65,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": true,
+      "detail": "The office's own published directory number.",
+      "points": 20
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ7ab6c45e6760cd42630d1a6",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ7ab6c45e6760cd42630d1a6",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJe0947e6e8939b017aa211bb",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJe0947e6e8939b017aa211bb",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ8274dd0950a9c23eebc90d9",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ8274dd0950a9c23eebc90d9",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for Post Office Passport Seva Kendra, Hisar is 0166 223 2100. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Head Post Office, Hisar, Haryana 125001.",
+    "first_number": {
+     "display": "0166 223 2100",
+     "surface": "ai_overview",
+     "source": "jamabandi.nic.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0166 223 2100",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "125001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "c49e477800438f94b3061997",
+    "query": "Post Office Passport Seva Kendra, Hisar phone number",
+    "repeats_listing_number": true
+   },
+   "ai_mode": {
+    "text": "Contact number for Post Office Passport Seva Kendra, Hisar is 0166 223 2100.",
+    "first_number": {
+     "display": "0166 223 2100",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0166 223 2100",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "125001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "db423e31f8697532f9db39fa",
+    "query": "Post Office Passport Seva Kendra, Hisar phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Post Office Passport Seva Kendra, Hisar",
+    "how": "matched by location and name",
+    "search_id": "1e34bb9388862db662ecff16",
+    "query": "Post Office Passport Seva Kendra, Hisar Haryana",
+    "phone_display": "0166 223 2100",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Post Office Passport Seva Kendra, Hisar\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Post Office Passport Seva Kendra, Hisar"
+     },
+     "search_id": "71e51f996395a026bb9ed781"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Post Office Passport Seva Kendra, Hisar",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ01a34778225221d743fc728"
+     },
+     "search_id": "192104ae8bafa48b7853f4d8"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Post Office Passport Seva Kendra, Hisar phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Post Office Passport Seva Kendra, Hisar phone number"
+     },
+     "search_id": "7808950f91f6480e87a66760"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "c49e477800438f94b3061997"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "db423e31f8697532f9db39fa"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Post Office Passport Seva Kendra, Hisar\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Post Office Passport Seva Kendra, Hisar"
+     },
+     "search_id": "1e34bb9388862db662ecff16"
+    }
+   ],
+   "busy": {
+    "title": "Post Office Passport Seva Kendra, Hisar",
+    "engine": "google_maps",
+    "search_id": "71e51f996395a026bb9ed781",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Post Office Passport Seva Kendra, Hisar phone number",
+    "numbers": [
+     {
+      "display": "0166 223 2100",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "popsk-panchkula",
+   "code": "",
+   "name": "Post Office Passport Seva Kendra, Panchkula",
+   "display_name": "Post Office Passport Seva Kendra, Panchkula",
+   "office_type": "passport",
+   "aliases": [
+    "POPSK Panchkula",
+    "Panchkula Passport Office"
+   ],
+   "kind": "POPSK",
+   "address": "Head Post Office, Sector 8, Panchkula, Haryana 134109",
+   "pincode": "134109",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0172 256 6100",
+     "label": "landline",
+     "tel": "+911722566100"
+    }
+   ],
+   "listing": {
+    "data_id": "0x881a315b27d8b316:0xb008cf675a621260",
+    "place_id": "ChIJ298c933563bdec9c1e747fe",
+    "title": "Post Office Passport Seva Kendra, Panchkula",
+    "address": "Head Post Office, Sector 8, Panchkula, Haryana 134109",
+    "website": "https://passportindia.gov.in",
+    "rating": 4.1,
+    "reviews": 610,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 30.698,
+    "lng": 76.852,
+    "found_by": "Passport Office",
+    "search_id": "82ada1ab31e94043192c0028",
+    "match": {
+     "office_id": "popsk-panchkula",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Post Office Passport Seva Kendra, Panchkula",
+      "same PIN 134109"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ298c933563bdec9c1e747fe",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJbf407b4a8bc62795d0c07c6",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJbf407b4a8bc62795d0c07c6",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ065fb6e562e6190ec6b2d6e",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ065fb6e562e6190ec6b2d6e",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding Post Office Passport Seva Kendra, Panchkula. Address: Head Post Office, Sector 8, Panchkula, Haryana 134109.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "134109"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "045b44a15b83273148524f4e",
+    "query": "Post Office Passport Seva Kendra, Panchkula phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Post Office Passport Seva Kendra, Panchkula is 0172 256 6100.",
+    "first_number": {
+     "display": "0172 256 6100",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0172 256 6100",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "134109"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "79cdb6c95183a80cc3d8d259",
+    "query": "Post Office Passport Seva Kendra, Panchkula phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Post Office Passport Seva Kendra, Panchkula",
+    "how": "matched by location and name",
+    "search_id": "2ceb784ce030a194776b864a",
+    "query": "Post Office Passport Seva Kendra, Panchkula Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Post Office Passport Seva Kendra, Panchkula\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Post Office Passport Seva Kendra, Panchkula"
+     },
+     "search_id": "82ada1ab31e94043192c0028"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Post Office Passport Seva Kendra, Panchkula",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ298c933563bdec9c1e747fe"
+     },
+     "search_id": "3622d9305907f91bc0b9fe04"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Post Office Passport Seva Kendra, Panchkula phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Post Office Passport Seva Kendra, Panchkula phone number"
+     },
+     "search_id": "0a148c8c9822b1b454000e79"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "045b44a15b83273148524f4e"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "79cdb6c95183a80cc3d8d259"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Post Office Passport Seva Kendra, Panchkula\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Post Office Passport Seva Kendra, Panchkula"
+     },
+     "search_id": "2ceb784ce030a194776b864a"
+    }
+   ],
+   "busy": {
+    "title": "Post Office Passport Seva Kendra, Panchkula",
+    "engine": "google_maps",
+    "search_id": "82ada1ab31e94043192c0028",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Post Office Passport Seva Kendra, Panchkula phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "popsk-panipat",
+   "code": "",
+   "name": "Post Office Passport Seva Kendra, Panipat",
+   "display_name": "Post Office Passport Seva Kendra, Panipat",
+   "office_type": "passport",
+   "aliases": [
+    "POPSK Panipat",
+    "Panipat Passport Office"
+   ],
+   "kind": "POPSK",
+   "address": "Head Post Office, GT Road, Panipat, Haryana 132103",
+   "pincode": "132103",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0180 264 1100",
+     "label": "landline",
+     "tel": "+911802641100"
+    }
+   ],
+   "listing": {
+    "data_id": "0xfd5f38744ccd77bc:0x27b45e03aa92b084",
+    "place_id": "ChIJc2a63340e5dd35b091ac16c",
+    "title": "Post Office Passport Seva Kendra, Panipat",
+    "address": "Head Post Office, GT Road, Panipat, Haryana 132103",
+    "website": "https://passportindia.gov.in",
+    "rating": 3.8,
+    "reviews": 380,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": false,
+    "lat": 29.395,
+    "lng": 76.968,
+    "found_by": "Passport Office",
+    "search_id": "d0e8be37da6d6e5428b1f67e",
+    "match": {
+     "office_id": "popsk-panipat",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Post Office Passport Seva Kendra, Panipat",
+      "same PIN 132103"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2a63340e5dd35b091ac16c",
+    "phone_display": "",
+    "phone_verdict": "",
+    "phone_detail": ""
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 55,
+    "basis": "5 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": false,
+      "detail": "No phone on the listing citizens find first.",
+      "points": 0
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": null,
+      "detail": "No number shown to check.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Listing is claimed and verified by the department.",
+      "points": 10
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": true,
+      "detail": "No complaints about unreachable phones.",
+      "points": 25
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 4,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ5afb28dfa6c13a9fc817329",
+       "text": "Tried calling the published office number multiple times for document status, but no one answers the phone. Had to visit in person.",
+       "evidence": "no one answers the phone",
+       "date": "2025-08-14",
+       "rating": 2.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ5afb28dfa6c13a9fc817329",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJe4692cf531d0fe8ab2abf74",
+       "text": "Touts and agents outside the office approach as soon as you enter, claiming work won't happen directly at the counters without extra money.",
+       "evidence": "Touts and agents",
+       "date": "2025-06-20",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJe4692cf531d0fe8ab2abf74",
+       "language": "en",
+       "sample": "query:agent"
+      }
+     ]
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 1,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJe45d54b77da9f055c4a2ba2",
+       "text": "Applied for learner's licence 3 weeks ago, still waiting for approval. System status stuck with no update.",
+       "evidence": "3 weeks ago, still waiting",
+       "date": "2026-09-12",
+       "rating": 1.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJe45d54b77da9f055c4a2ba2",
+       "language": "en",
+       "sample": "query:phone"
+      }
+     ]
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJ34a896b03a205376644c9f5",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJ34a896b03a205376644c9f5",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "The official phone number for Post Office Passport Seva Kendra, Panipat is 0180 264 1100. Working hours are Monday to Friday, 9:00 AM to 5:00 PM. The office is located at Head Post Office, GT Road, Panipat, Haryana 132103.",
+    "first_number": {
+     "display": "0180 264 1100",
+     "surface": "ai_overview",
+     "source": "jamabandi.nic.in",
+     "verdict": "this office",
+     "detail": "This office's own directory number"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0180 264 1100",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ],
+    "pincodes": [
+     "132103"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "f6870796ecd215133362a8b8",
+    "query": "Post Office Passport Seva Kendra, Panipat phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Post Office Passport Seva Kendra, Panipat is 0180 264 1100.",
+    "first_number": {
+     "display": "0180 264 1100",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0180 264 1100",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "132103"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "665066b514814a36079c8d6b",
+    "query": "Post Office Passport Seva Kendra, Panipat phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Post Office Passport Seva Kendra, Panipat",
+    "how": "matched by location and name",
+    "search_id": "5c278fc2c927477c18d94985",
+    "query": "Post Office Passport Seva Kendra, Panipat Haryana",
+    "phone_display": "0180 264 1100",
+    "phone_verdict": "this office"
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Post Office Passport Seva Kendra, Panipat\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Post Office Passport Seva Kendra, Panipat"
+     },
+     "search_id": "d0e8be37da6d6e5428b1f67e"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Post Office Passport Seva Kendra, Panipat",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJc2a63340e5dd35b091ac16c"
+     },
+     "search_id": "dad2ef1e9ecd69d837a3ce87"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Post Office Passport Seva Kendra, Panipat phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Post Office Passport Seva Kendra, Panipat phone number"
+     },
+     "search_id": "7d6c07f16624aad24cc28876"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "f6870796ecd215133362a8b8"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "665066b514814a36079c8d6b"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Post Office Passport Seva Kendra, Panipat\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Post Office Passport Seva Kendra, Panipat"
+     },
+     "search_id": "5c278fc2c927477c18d94985"
+    }
+   ],
+   "busy": {
+    "title": "Post Office Passport Seva Kendra, Panipat",
+    "engine": "google_maps",
+    "search_id": "d0e8be37da6d6e5428b1f67e",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Post Office Passport Seva Kendra, Panipat phone number",
+    "numbers": [
+     {
+      "display": "0180 264 1100",
+      "surface": "ai_overview",
+      "source": "jamabandi.nic.in",
+      "verdict": "this office",
+      "detail": "This office's own directory number"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  },
+  {
+   "id": "popsk-sonipat",
+   "code": "",
+   "name": "Post Office Passport Seva Kendra, Sonipat",
+   "display_name": "Post Office Passport Seva Kendra, Sonipat",
+   "office_type": "passport",
+   "aliases": [
+    "POPSK Sonipat",
+    "Sonipat Passport Office"
+   ],
+   "kind": "POPSK",
+   "address": "Head Post Office, Sonipat, Haryana 131001",
+   "pincode": "131001",
+   "email": "rpo.chandigarh@mea.gov.in",
+   "source_url": "https://www.passportindia.gov.in",
+   "notes": [],
+   "official_phones": [
+    {
+     "display": "0130 224 1100",
+     "label": "landline",
+     "tel": "+911302241100"
+    }
+   ],
+   "listing": {
+    "data_id": "0x39a7bb483e88bad4:0x351f2cd2800f1ae8",
+    "place_id": "ChIJ1b09361d79b36895c342b1a",
+    "title": "Post Office Passport Seva Kendra, Sonipat",
+    "address": "Head Post Office, Sonipat, Haryana 131001",
+    "website": "https://passportindia.gov.in",
+    "rating": 3.9,
+    "reviews": 340,
+    "category": "Government office",
+    "has_hours": true,
+    "unclaimed": true,
+    "lat": 28.996,
+    "lng": 77.018,
+    "found_by": "Passport Office",
+    "search_id": "201ce19e19c5c896addc1ba0",
+    "match": {
+     "office_id": "popsk-sonipat",
+     "evidence": [
+      "pin",
+      "title"
+     ],
+     "reasons": [
+      "title names Post Office Passport Seva Kendra, Sonipat",
+      "same PIN 131001"
+     ],
+     "role": "office"
+    },
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1b09361d79b36895c342b1a",
+    "phone_display": "0124 492 5522",
+    "phone_verdict": "not in the directory",
+    "phone_detail": "A number not listed in the official directory"
+   },
+   "other_listings": [],
+   "reach": {
+    "score": 45,
+    "basis": "6 of 6 checks",
+    "checks": [
+     {
+      "id": "phone",
+      "label": "Google Maps shows a phone number",
+      "max_points": 25,
+      "passed": true,
+      "detail": "Phone listed on Google Maps.",
+      "points": 25
+     },
+     {
+      "id": "own_number",
+      "label": "The number shown is the office's own",
+      "max_points": 20,
+      "passed": false,
+      "detail": "A number not found in the directory.",
+      "points": 0
+     },
+     {
+      "id": "website",
+      "label": "Links to a government website",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Official website listed.",
+      "points": 10
+     },
+     {
+      "id": "hours",
+      "label": "Shows opening hours",
+      "max_points": 10,
+      "passed": true,
+      "detail": "Hours listed (Mon-Fri 9:00 AM - 5:00 PM).",
+      "points": 10
+     },
+     {
+      "id": "claimed",
+      "label": "Managed by its owner on Google",
+      "max_points": 10,
+      "passed": false,
+      "detail": "Google marks it unclaimed: no verified owner manages the listing.",
+      "points": 0
+     },
+     {
+      "id": "gets_through",
+      "label": "No review in the last 2 years reports failing to get through by phone",
+      "max_points": 25,
+      "passed": false,
+      "detail": "Reviews report phone calls go unanswered.",
+      "points": 0
+     }
+    ]
+   },
+   "sample_size": 30,
+   "window_reviews": 15,
+   "span": [
+    "2025-08-01",
+    "2026-10-07"
+   ],
+   "enough_evidence": true,
+   "problem_reviews": 2,
+   "positive_reviews": 3,
+   "sampled": true,
+   "searched_individually": true,
+   "citizen_checked": true,
+   "issues": [
+    {
+     "category": "unreachable",
+     "label": "Can't reach them by phone",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "tout",
+     "label": "Agents or brokers involved",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "delay",
+     "label": "Waits beyond the promised time",
+     "polarity": "problem",
+     "count": 0,
+     "of": 15,
+     "quotes": []
+    },
+    {
+     "category": "helpful",
+     "label": "Helpful, quick service",
+     "polarity": "positive",
+     "count": 2,
+     "of": 15,
+     "quotes": [
+      {
+       "review_id": "ChIJab140bc43a30c7b7d7014bd",
+       "text": "Counter staff was polite and helpful, verification done smoothly in 20 minutes without hassle.",
+       "evidence": "polite and helpful",
+       "date": "2026-07-05",
+       "rating": 5.0,
+       "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChIJab140bc43a30c7b7d7014bd",
+       "language": "en",
+       "sample": "newest"
+      }
+     ]
+    }
+   ],
+   "ai_overview": {
+    "text": "You can contact the Haryana Government helpline at 1800 180 2057 for inquiries regarding Post Office Passport Seva Kendra, Sonipat. Address: Head Post Office, Sonipat, Haryana 131001.",
+    "first_number": {
+     "display": "1800 180 2057",
+     "surface": "ai_overview",
+     "source": "haryana.gov.in",
+     "verdict": "department helpline",
+     "detail": "Haryana State Government Helpline"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ],
+    "pincodes": [
+     "131001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs Portal",
+      "https://www.passportindia.gov.in"
+     ],
+     [
+      "Haryana Government Services",
+      "https://haryana.gov.in"
+     ]
+    ],
+    "search_id": "1de8f77f75e7bf0fd6211881",
+    "query": "Post Office Passport Seva Kendra, Sonipat phone number",
+    "repeats_listing_number": false
+   },
+   "ai_mode": {
+    "text": "Contact number for Post Office Passport Seva Kendra, Sonipat is 0130 224 1100.",
+    "first_number": {
+     "display": "0130 224 1100",
+     "verdict": "this office"
+    },
+    "searched_on": "2026-10-08",
+    "numbers": [
+     {
+      "display": "0130 224 1100",
+      "verdict": "this office"
+     }
+    ],
+    "pincodes": [
+     "131001"
+    ],
+    "address_matches": true,
+    "references": [
+     [
+      "Ministry of External Affairs",
+      "https://www.passportindia.gov.in"
+     ]
+    ],
+    "search_id": "427d2b30c1a21f4c29d24298",
+    "query": "Post Office Passport Seva Kendra, Sonipat phone number"
+   },
+   "bing": {
+    "found": true,
+    "title": "Post Office Passport Seva Kendra, Sonipat",
+    "how": "matched by location and name",
+    "search_id": "d9bee2eccae1401f9050afe0",
+    "query": "Post Office Passport Seva Kendra, Sonipat Haryana",
+    "phone_display": "",
+    "phone_verdict": ""
+   },
+   "trail": [
+    {
+     "engine": "google_maps",
+     "purpose": "Google Maps search: \"Post Office Passport Seva Kendra, Sonipat\"",
+     "params": {
+      "engine": "google_maps",
+      "q": "Post Office Passport Seva Kendra, Sonipat"
+     },
+     "search_id": "201ce19e19c5c896addc1ba0"
+    },
+    {
+     "engine": "google_maps_reviews",
+     "purpose": "Newest reviews for Post Office Passport Seva Kendra, Sonipat",
+     "params": {
+      "engine": "google_maps_reviews",
+      "place_id": "ChIJ1b09361d79b36895c342b1a"
+     },
+     "search_id": "9dc1107197291ece674e687f"
+    },
+    {
+     "engine": "google",
+     "purpose": "Google Search, as a citizen: \"Post Office Passport Seva Kendra, Sonipat phone number\"",
+     "params": {
+      "engine": "google",
+      "q": "Post Office Passport Seva Kendra, Sonipat phone number"
+     },
+     "search_id": "8b7ed949d0cc5072096f7cc5"
+    },
+    {
+     "engine": "google_ai_overview",
+     "purpose": "Google's AI Overview for that search",
+     "params": {
+      "engine": "google_ai_overview"
+     },
+     "search_id": "1de8f77f75e7bf0fd6211881"
+    },
+    {
+     "engine": "google_ai_mode",
+     "purpose": "The same question in Google's AI Mode",
+     "params": {
+      "engine": "google_ai_mode"
+     },
+     "search_id": "427d2b30c1a21f4c29d24298"
+    },
+    {
+     "engine": "bing_maps",
+     "purpose": "Bing Maps, the same office: \"Post Office Passport Seva Kendra, Sonipat\"",
+     "params": {
+      "engine": "bing_maps",
+      "q": "Post Office Passport Seva Kendra, Sonipat"
+     },
+     "search_id": "d9bee2eccae1401f9050afe0"
+    }
+   ],
+   "busy": {
+    "title": "Post Office Passport Seva Kendra, Sonipat",
+    "engine": "google_maps",
+    "search_id": "201ce19e19c5c896addc1ba0",
+    "days": {
+     "Monday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Tuesday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       60
+      ],
+      [
+       11,
+       80
+      ],
+      [
+       12,
+       85
+      ],
+      [
+       13,
+       65
+      ],
+      [
+       14,
+       70
+      ],
+      [
+       15,
+       55
+      ],
+      [
+       16,
+       35
+      ]
+     ],
+     "Wednesday": [
+      [
+       9,
+       30
+      ],
+      [
+       10,
+       70
+      ],
+      [
+       11,
+       90
+      ],
+      [
+       12,
+       95
+      ],
+      [
+       13,
+       75
+      ],
+      [
+       14,
+       80
+      ],
+      [
+       15,
+       65
+      ],
+      [
+       16,
+       45
+      ]
+     ],
+     "Thursday": [
+      [
+       9,
+       25
+      ],
+      [
+       10,
+       65
+      ],
+      [
+       11,
+       85
+      ],
+      [
+       12,
+       90
+      ],
+      [
+       13,
+       70
+      ],
+      [
+       14,
+       75
+      ],
+      [
+       15,
+       60
+      ],
+      [
+       16,
+       40
+      ]
+     ],
+     "Friday": [
+      [
+       9,
+       35
+      ],
+      [
+       10,
+       75
+      ],
+      [
+       11,
+       95
+      ],
+      [
+       12,
+       100
+      ],
+      [
+       13,
+       80
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       15,
+       70
+      ],
+      [
+       16,
+       50
+      ]
+     ]
+    }
+   },
+   "breaches": [],
+   "citizen_search": {
+    "query": "Post Office Passport Seva Kendra, Sonipat phone number",
+    "numbers": [
+     {
+      "display": "1800 180 2057",
+      "surface": "ai_overview",
+      "source": "haryana.gov.in",
+      "verdict": "department helpline",
+      "detail": "Haryana State Government Helpline"
+     }
+    ]
+   },
+   "agent_waits": [],
+   "older_breaches": 0
+  }
+ ],
+ "timelines": [
+  {
+   "id": "passport-fresh",
+   "office_type": "passport",
+   "name": "Fresh passport (normal)",
+   "days": 30,
+   "source_url": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "police verification period",
+   "citation": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "limit": "30 working days"
+  },
+  {
+   "id": "passport-reissue",
+   "office_type": "passport",
+   "name": "Passport re-issue (no pre-police verification needed)",
+   "days": 7,
+   "source_url": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "",
+   "citation": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "limit": "7 working days"
+  },
+  {
+   "id": "passport-reissue-pv",
+   "office_type": "passport",
+   "name": "Passport re-issue (police verification needed)",
+   "days": 30,
+   "source_url": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "police verification period",
+   "citation": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "limit": "30 working days"
+  },
+  {
+   "id": "passport-tatkaal",
+   "office_type": "passport",
+   "name": "Tatkaal passport",
+   "days": 3,
+   "source_url": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "unit": "working days",
+   "page": null,
+   "condition": "if the applicant is eligible under the Tatkaal scheme",
+   "excludes": "",
+   "citation": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "limit": "3 working days"
+  },
+  {
+   "id": "police-clearance-certificate",
+   "office_type": "passport",
+   "name": "Police clearance certificate",
+   "days": 7,
+   "source_url": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "unit": "working days",
+   "page": null,
+   "condition": "",
+   "excludes": "police verification period",
+   "citation": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf",
+   "limit": "7 working days"
+  }
+ ],
+ "appeals": null,
+ "helpline": "1800 258 1800",
+ "grievance": {
+  "portals": [
+   "https://www.passportindia.gov.in/psp/Grievance",
+   "https://pgportal.gov.in"
+  ],
+  "phones": [
+   "011-23384519",
+   "011-23384497"
+  ],
+  "email": "passport.pg@mea.gov.in",
+  "source_name": "Passport Seva Citizen's Charter (Ministry of External Affairs)",
+  "complaint_to": "rpo-chandigarh",
+  "complaint_email": "rpo.chandigarh@mea.gov.in",
+  "source_url": "https://services1.passportindia.gov.in/AppOnlineProject/pdf/Citizen_Charter.pdf"
+ },
+ "unmatched": [],
+ "lookalikes": [
+  {
+   "title": "Passport Seva Kendra Agent Gurugram",
+   "category": "Passport agent",
+   "pincode": "122001",
+   "reviews": 45,
+   "lat": 28.46,
+   "lng": 77.027
+  },
+  {
+   "title": "Tatkal Passport Consultancy Ambala",
+   "category": "Consultant",
+   "pincode": "134003",
+   "reviews": 32,
+   "lat": 30.373,
+   "lng": 76.78
+  },
+  {
+   "title": "Online Passport Service Center Faridabad",
+   "category": "Passport agent",
+   "pincode": "121001",
+   "reviews": 60,
+   "lat": 28.4095,
+   "lng": 77.3185
+  }
+ ],
+ "sweep": [
+  {
+   "engine": "google_maps",
+   "purpose": "Maps sweep: \"Regional Transport Authority\"",
+   "params": {
+    "engine": "google_maps",
+    "q": "Regional Transport Authority",
+    "ll": "@29.0588,76.0856,8z"
+   },
+   "search_id": "12f35c70573a818a7c82401a"
+  },
+  {
+   "engine": "google_maps",
+   "purpose": "Maps sweep: \"Sub Registrar Office\"",
+   "params": {
+    "engine": "google_maps",
+    "q": "Sub Registrar Office",
+    "ll": "@29.0588,76.0856,8z"
+   },
+   "search_id": "11fd0fa383a4db2b06f5ee43"
+  }
+ ],
+ "searches_by_engine": {
+  "google_maps": 20,
+  "google_maps_reviews": 30,
+  "google": 10,
+  "google_ai_overview": 10,
+  "google_ai_mode": 10,
+  "bing_maps": 10
+ },
+ "searches": 90
+}
