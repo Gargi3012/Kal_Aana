@@ -35,7 +35,7 @@ from typing import Any, Final
 from fastapi import FastAPI, HTTPException, Path as PathParam, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.utils import get_openapi
-from fastapi.responses import FileResponse, HTMLResponse, JSONResponse, StreamingResponse
+from fastapi.responses import FileResponse, HTMLResponse, JSONResponse, Response, StreamingResponse
 
 from pydantic import BaseModel, Field
 
@@ -339,7 +339,7 @@ def api_unknown(rest: str = "") -> JSONResponse:
 
 
 @app.api_route("/{path:path}", methods=["GET", "HEAD"], include_in_schema=False)
-def spa(path: str = "") -> FileResponse:
+def spa(request: Request, path: str = "") -> Response:
     """A built file if one exists at that path. A path with a file extension that doesn't exist is a real 404
     (a missing script or icon must not come back as HTML); any other path gets the app's index.html, which routes on the client."""
     target = (BUILD / path).resolve()
@@ -350,4 +350,9 @@ def spa(path: str = "") -> FileResponse:
     index = BUILD / "index.html"
     if not index.exists():
         raise HTTPException(503, "The app isn't built. Run: cd frontend && pnpm install && pnpm build")
-    return FileResponse(index, headers={"Cache-Control": "no-cache"})
+    html = index.read_text(encoding="utf-8")
+    base_url = str(request.base_url).rstrip("/")
+    # Replace external domain with current deployment host for WhatsApp/OG previews
+    html = html.replace("https://kal-aana.gradestone.in/og.jpg", f"{base_url}/og.jpg")
+    html = html.replace("https://kal-aana.gradestone.in/", f"{base_url}/")
+    return HTMLResponse(html, headers={"Cache-Control": "no-cache"})
